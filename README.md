@@ -1,17 +1,44 @@
 # NexusAD: Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving
 
+**Authors**:  
+Mengjingcheng Mo, Jingxin Wang, Like Wang, Haosheng Chen, Changjun Gu, Jiaxu Leng\*, Xinbo Gao\*  
+Chongqing University of Posts and Telecommunications  
+\*Corresponding authors: Jiaxu Leng, Xinbo Gao
+
+---
+
 Welcome to the official repository for **NexusAD**, our approach for addressing the **Corner Case Scene Understanding** track at the ECCV 2024 Autonomous Driving Workshop.
+
+## Quick Links
+
+- [LoRA Weights](https://example.com/lora-weights) 
+- [Poster](https://example.com/nexusad-poster)
+- [PPT Presentation](https://example.com/nexusad-presentation)
+- [OpenReview Paper](https://openreview.net/forum?id=example-link)
+- [ECCV 2024 Workshop](https://eccv2024.autonomousdriving.com)
+- [Corner Case Scene Understanding Track](https://eccv2024.autonomousdriving.com/track)
+
+## Table of Contents
+- [NexusAD: Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving](#nexusad-multimodal-perception-and-comprehension-of-corner-cases-in-autonomous-driving)
+  - [Quick Links](#quick-links)
+  - [Table of Contents](#table-of-contents)
+  - [Project Overview](#project-overview)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Model Architecture](#model-architecture)
+  - [Results](#results)
+  - [Supplementary Materials](#supplementary-materials)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Project Overview
 
-NexusAD is designed to improve multimodal perception and comprehension in **corner cases**—the most challenging and uncommon scenarios in autonomous driving. By leveraging **large vision-language models (LVLMs)** and the **CODA-LM dataset**, we aim to enhance autonomous vehicle safety through improved object detection, depth estimation, and reasoning in complex traffic environments.
+NexusAD is our approach for addressing corner cases in autonomous driving by leveraging **multimodal large-scale language models (MLLMs)**. Using **InternVL-2.0** as the foundation and the **CODA-LM** dataset, we aim to improve spatial understanding, object detection, and reasoning for autonomous driving in complex and uncommon scenarios.
 
-Key components of NexusAD include:
-- **InternVL-2.0 Model**: A state-of-the-art vision-language model used as the backbone for scene understanding.
-- **Scene-Aware Retrieval-Augmented Generation**: A method for retrieving contextually relevant samples to improve perception in corner cases.
-- **Driving Prompt Optimization**: Using chain-of-thought reasoning to generate structured, accurate driving suggestions.
+The challenge of corner cases in autonomous driving remains largely unexplored. NexusAD utilizes advanced techniques like **scene-aware retrieval**, **depth estimation**, and **chain-of-thought reasoning** to improve the model's understanding and decision-making capabilities in these difficult scenarios.
 
-The complete report can be found in the repository's documentation.
+With a final score of **68.97** on the ECCV 2024 leaderboard, our approach surpasses baseline models and improves the performance of tasks like **general perception**, **region perception**, and **driving suggestions**.
 
 ## Features
 
@@ -33,7 +60,9 @@ The complete report can be found in the repository's documentation.
     pip install -r requirements.txt
     ```
 
-3. Download the CODA-LM dataset and place it in the appropriate directory as per the instructions.
+3. Download the [CODA-LM dataset](https://example.com/coda-lm-dataset) and place it in the appropriate directory as per the instructions.
+
+4. Download the [LoRA Weights](https://example.com/lora-weights) and place them in the `weights/` directory.
 
 ## Usage
 
@@ -58,14 +87,19 @@ To run the NexusAD model:
 
 The model consists of four primary stages:
 
-1. **Preliminary Visual Perception**: Extracts spatial and depth information from images using InternVL-2.0 and object detection techniques.
-2. **Scene-aware Retrieval-Augmented Generation**: Utilizes a custom retrieval system to enhance understanding of complex driving scenes.
-3. **Driving Prompt Optimization**: Generates context-aware and structured outputs for driving suggestions.
-4. **Fine-Tuning**: Conducted with parameter-efficient methods to optimize the model's performance.
+1. **Preliminary Visual Perception**: We use **Grounding DINO** for object detection and **DepthAnything v2** for accurate depth estimation, converting spatial information from the images into structured textual formats that are easier for large language models to understand.
+   
+2. **Scene-aware Retrieval-Augmented Generation**: We employ a custom **Retrieval-Augmented Generation (RAG)** technique to enhance understanding of complex driving scenes by selecting contextually relevant samples for retrieval.
+   
+3. **Driving Prompt Optimization**: Using **Chain-of-Thought (CoT) prompting**, we guide the model through intermediate reasoning steps to generate structured, context-aware driving suggestions based on traffic rules and scene understanding.
+
+4. **Fine-Tuning**: We applied **LoRA** (Low-Rank Adaptation) for parameter-efficient fine-tuning, optimizing model performance while conserving GPU memory and training time.
+
+![NexusAD Architecture](https://example.com/architecture-diagram.png)
 
 ## Results
 
-On the ECCV 2024 competition leaderboard, NexusAD achieved a **final score of 68.97**, significantly improving on tasks like **general perception** and **driving suggestions** when compared to baseline models.
+On the ECCV 2024 competition leaderboard, NexusAD achieved a **final score of 68.97**, surpassing other baseline models in the tasks of **General Perception (GP)**, **Region Perception (RP)**, and **Driving Suggestions (DS)**.
 
 | Model              | General Perception | Region Perception | Driving Suggestion | Final Score |
 |--------------------|-------------------|------------------|-------------------|-------------|
@@ -73,6 +107,14 @@ On the ECCV 2024 competition leaderboard, NexusAD achieved a **final score of 68
 | CODA-VLM           | 55.04             | 77.68            | 58.14             | 63.62       |
 | InternVL-2.0-26B   | 43.39             | 64.91            | 48.04             | 52.11       |
 | **NexusAD (Ours)** | **57.58**         | **84.31**        | **65.02**         | **68.97**   |
+
+NexusAD improved by **14.19 points** on **General Perception**, **19.40 points** on **Region Perception**, and **16.98 points** on **Driving Suggestions** over the baseline.
+
+## Supplementary Materials
+For more detailed information about our approach, methodology, and experiments, please refer to the following:
+
+- [Technical Report](https://example.com/technical-report)
+- [Supplementary Materials](https://example.com/supplementary-materials)
 
 ## Contributing
 
