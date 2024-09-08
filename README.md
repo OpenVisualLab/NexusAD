@@ -134,6 +134,6 @@ NexusAD 模型架构由以下几部分组成：
 @article{mo2024nexusad,
   title={NexusAD: Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving},
   author={Mo, Mengjingcheng and Wang, Jingxin and Wang, Like and others},
-  journal={ECCV 2024 Autonomous Driving Workshop},
+  journal={ECCV 2024 Autonomous Driving Workshop Abstract Paper},
   year={2024}
 }
