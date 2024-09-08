@@ -1,17 +1,13 @@
 <div id="top" align="center">
 
 <p align="center">
-  <img src="assets/images/repo/logo.jpg" alt="NexusAD Logo" width="200">
+  <img src="assets/banner.jpg" alt="NexusAD Logo" width="400">
 </p>
 
-# **NexusAD**  
+# **🚗 NexusAD**  
 *Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving*
 
-Authors <a name="authors"></a>
-Mengjingcheng Mo, Jingxin Wang, Like Wang, Haosheng Chen, Changjun Gu, Jiaxu Leng, Xinbo Gao
-Chongqing University of Posts and Telecommunications
-
-**注意：目前代码还在更新中，敬请期待更多功能和改进。**
+**⚠️ 注意：目前代码还在更新中，敬请期待更多功能和改进。**
 
 `ECCV 2024 Autonomous Driving Workshop` **Corner Case Scene Understanding** [Leaderboard](https://eccv2024.autonomousdriving.com)
 
@@ -30,7 +26,14 @@ Chongqing University of Posts and Telecommunications
 
 ---
 
-## 项目亮点 <a name="highlight"></a>
+## ✍️ 作者 <a name="authors"></a>
+
+- Mengjingcheng Mo, Jingxin Wang, Like Wang, Haosheng Chen, Changjun Gu, Jiaxu Leng, Xinbo Gao  
+  Chongqing University of Posts and Telecommunications
+
+---
+
+## 🌟 项目亮点 <a name="highlight"></a>
 
 - 🔥 **NexusAD** 提出了一种基于 **InternVL-2.0** 的多模态感知与理解框架，通过对 **CODA-LM** 数据集的精细调优，显著提升了对复杂场景的检测、深度估计与推理能力。
 - 🏁 **NexusAD** 参与了 [**`ECCV 2024 Autonomous Driving Workshop`**](https://eccv2024.autonomousdriving.com)，专注于极端驾驶场景中的多模态场景理解任务。
@@ -41,27 +44,26 @@ Chongqing University of Posts and Telecommunications
 
 ---
 
-## 最新动态 <a name="news"></a>
+## 📰 最新动态 <a name="news"></a>
 
-- **2024/09/08**: NexusAD 在 ECCV 2024 提交，并取得 68.97 分的成绩。
-- **2024/06/01**: NexusAD 团队发布了最新版本的代码和训练数据。
-
-<p align="right">(<a href="#top">回到顶部</a>)</p>
+- **2024/08/15**: NexusAD 在 ECCV 2024 提交，并取得 68.97 分的成绩。
+- **2024/08/15**: NexusAD 团队发布了最新版本的代码和Lora权重。
 
 ---
 
-## 目录
+## 📂 目录
 
-1. [项目亮点](#highlight)
-2. [快速开始](#getting-started)
-3. [模型架构](#model-architecture)
-4. [实验结果](#results)
-5. [贡献指南](#contributing)
-6. [许可与引用](#license)
+1. [🌟 项目亮点](#highlight)
+2. [🚀 快速开始](#getting-started)
+3. [⚙️ 模型架构](#model-architecture)
+4. [📊 实验结果](#results)
+5. [💡 贡献指南](#contributing)
+6. [📜 许可与引用](#license)
+7. [🙏 致谢](#acknowledgments)
 
 ---
 
-## 快速开始 <a name="getting-started"></a>
+## 🚀 快速开始 <a name="getting-started"></a>
 
 请按照以下步骤开始使用 NexusAD：
 
@@ -87,11 +89,9 @@ Chongqing University of Posts and Telecommunications
    python evaluate.py --data_path <path-to-evaluation-set>
    ```
 
-<p align="right">(<a href="#top">回到顶部</a>)</p>
-
 ---
 
-## 模型架构 <a name="model-architecture"></a>
+## ⚙️ 模型架构 <a name="model-architecture"></a>
 
 NexusAD 模型架构由以下几部分组成：
 
@@ -103,11 +103,9 @@ NexusAD 模型架构由以下几部分组成：
 
 4. **精细调优**：我们使用 **LoRA** 技术进行高效的参数微调，以优化性能并节省计算资源。
 
-<p align="right">(<a href="#top">回到顶部</a>)</p>
-
 ---
 
-## 实验结果 <a name="results"></a>
+## 📊 实验结果 <a name="results"></a>
 
 在 ECCV 2024 的角落案例理解任务中，NexusAD 的表现超过了基准模型，取得了 **68.97** 的最终得分：
 
@@ -118,30 +116,36 @@ NexusAD 模型架构由以下几部分组成：
 | InternVL-2.0-26B   | 43.39      | 64.91      | 48.04      | 52.11    |
 | **NexusAD (Ours)** | **57.58**  | **84.31**  | **65.02**  | **68.97**|
 
-<p align="right">(<a href="#top">回到顶部</a>)</p>
-
 ---
 
-## 贡献指南 <a name="contributing"></a>
+## 💡 贡献指南 <a name="contributing"></a>
 
 我们欢迎任何形式的贡献！请查看 [CONTRIBUTING.md](CONTRIBUTING.md) 了解如何参与。
 
-<p align="right">(<a href="#top">回到顶部</a>)</p>
-
 ---
 
-## 许可与引用 <a name="license"></a>
+## 📜 许可与引用 <a name="license"></a>
 
 本项目根据 [MIT 许可](./LICENSE) 发布。如果该项目对你的研究有帮助，请引用以下内容：
 
 ```BibTeX
 @article{mo2024nexusad,
   title={NexusAD: Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving},
-  author={Mo, Mengjingcheng and Wang, Jingxin and Wang, Like and Chen, Haosheng and Gu, Changjun and Leng,Jiaxu and Gao, Xinbo},
-  journal={ECCV 2024 Autonomous Driving Workshop Abstract Paper},
+  author={Mo, Mengjingcheng and Wang, Jingxin and Wang, Like and Chen, Haosheng and Gu, Changjun and Leng, Jiaxu and Gao, Xinbo},
+  journal={ECCV 2024 Autonomous Driving Workshop},
   year={2024}
 }
 ```
 
-<p align="right">(<a href="#top">回到顶部</a>)</p>
+---
 
+## 🙏 致谢 <a name="acknowledgments"></a>
+
+特别感谢以下项目为 NexusAD 的开发提供了重要参考和支持：
+
+- **[InternVL](https://github.com/OpenGVLab/InternVL)**：为多模态视觉语言模型的开发提供了关键技术支持。
+- **[CODA-LM](https://github.com/DLUT-LYZ/CODA-LM)**：为角落案例理解任务提供了数据集和相关资源。
+
+---
+
+<p align="right">(<a href="#top">回到顶部</a>)</p>
