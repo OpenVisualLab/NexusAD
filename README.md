@@ -7,6 +7,10 @@
 # **NexusAD**  
 *Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving*
 
+Authors <a name="authors"></a>
+Mengjingcheng Mo, Jingxin Wang, Like Wang, Haosheng Chen, Changjun Gu, Jiaxu Leng, Xinbo Gao
+Chongqing University of Posts and Telecommunications
+
 **注意：目前代码还在更新中，敬请期待更多功能和改进。**
 
 `ECCV 2024 Autonomous Driving Workshop` **Corner Case Scene Understanding** [Leaderboard](https://eccv2024.autonomousdriving.com)
@@ -62,26 +66,26 @@
 请按照以下步骤开始使用 NexusAD：
 
 1. **克隆仓库**：
-   %%%bash
+   ```bash
    git clone https://github.com/OpenVisualLab/NexusAD.git
    cd NexusAD
-   %%%
+   ```
 
 2. **安装依赖**：
-   %%%bash
+   ```bash
    pip install -r requirements.txt
-   %%%
+   ```
 
 3. **下载 [CODA-LM 数据集](https://example.com/coda-lm-dataset)** 并将其放置在指定目录中。
 
 4. **下载 [LoRA 权重](https://example.com/lora-weights)** 并放置在 `weights/` 目录下。
 
 5. **运行模型**：
-   %%%bash
+   ```bash
    python preprocess.py --data_path <path-to-CODA-LM>
    python train.py --config config.json
    python evaluate.py --data_path <path-to-evaluation-set>
-   %%%
+   ```
 
 <p align="right">(<a href="#top">回到顶部</a>)</p>
 
@@ -133,7 +137,11 @@ NexusAD 模型架构由以下几部分组成：
 ```BibTeX
 @article{mo2024nexusad,
   title={NexusAD: Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving},
-  author={Mo, Mengjingcheng and Wang, Jingxin and Wang, Like and others},
+  author={Mo, Mengjingcheng and Wang, Jingxin and Wang, Like and Chen, Haosheng and Gu, Changjun and Leng,Jiaxu and Gao, Xinbo},
   journal={ECCV 2024 Autonomous Driving Workshop Abstract Paper},
   year={2024}
 }
+```
+
+<p align="right">(<a href="#top">回到顶部</a>)</p>
+
