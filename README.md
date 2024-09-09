@@ -7,9 +7,10 @@
 # **🚗 NexusAD**  
 *Exploring the Nexus for Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving*
 
-**⚠️ 注意：目前代码还在更新中，敬请期待更多功能和改进。**
+**⚠️ Note: The code is currently being updated, stay tuned for more features and improvements.**
 
-`ECCV 2024 Autonomous Driving Workshop` **Corner Case Scene Understanding** [Leaderboard](https://eccv2024.autonomousdriving.com)
+`ECCV 2024 Autonomous Driving Workshop` **Corner Case Scene Understanding** [Leaderboard](https://eccv2024.autonomousdriving.com)  
+**W-CODA 2024 Challenge** [Track 1](https://coda-dataset.github.io/w-coda2024/track1/)
 
 </div>
 
@@ -19,7 +20,7 @@
 
 [![Project Page](https://img.shields.io/badge/Project%20Page-8A2BE2)](https://opendrivelab.com/DriveLM/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
-[![arXiv](https://img.shields.io/badge/arXiv-2312.14150-b31b1b.svg)](https://openreview.net/forum?id=example-link)
+[![OpenReview](https://img.shields.io/badge/OpenReview-LXZO1nGI0d-b31b1b.svg)](https://openreview.net/forum?id=LXZO1nGI0d)
 [![Latest Release](https://img.shields.io/badge/Latest%20release-v1.1-yellow)](#getting-started)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-NexusAD-orange)](https://huggingface.co/OpenVisualLab/NexusAD)
 
@@ -28,17 +29,18 @@
 
 ---
 
-## ✍️ 作者 <a name="authors"></a>
+## ✍️ Authors <a name="authors"></a>
 
 - Mengjingcheng Mo, Jingxin Wang, Like Wang, Haosheng Chen, Changjun Gu, Jiaxu Leng, Xinbo Gao  
   Chongqing University of Posts and Telecommunications
 
 ---
 
-## 🌟 项目亮点 <a name="highlight"></a>
+## 🌟 Project Highlights <a name="highlight"></a>
 
-- 🔥 **NexusAD** 提出了一种基于 **InternVL-2.0** 的多模态感知与理解框架，通过对 **CODA-LM** 数据集的精细调优，显著提升了对复杂场景的检测、深度估计与推理能力。
-- 🏁 **NexusAD** 参与了 [**`ECCV 2024 Autonomous Driving Workshop`**](https://eccv2024.autonomousdriving.com)，专注于极端驾驶场景中的多模态场景理解任务。
+- 🔥 **NexusAD** introduces a multimodal perception and understanding framework based on **InternVL-2.0**, significantly improving detection, depth estimation, and reasoning abilities for complex scenarios through fine-tuning on the **CODA-LM** dataset.
+- 🏁 **NexusAD** participated in the [**`ECCV 2024 Autonomous Driving Workshop`**](https://eccv2024.autonomousdriving.com), focusing on multimodal scene understanding tasks in extreme driving scenarios.  
+  Also participated in the **[W-CODA 2024 Challenge](https://coda-dataset.github.io/w-coda2024/track1/)** Track 1.
 
 <p align="center">
   <img src="assets/images/repo/nexusad_architecture.jpg" alt="NexusAD Architecture" width="600">
@@ -46,97 +48,97 @@
 
 ---
 
-## 📰 最新动态 <a name="news"></a>
+## 📰 Latest News <a name="news"></a>
 
-- **2024/08/15**: NexusAD 在 ECCV 2024 提交，并取得 68.97 分的成绩。
-- **2024/08/15**: NexusAD 团队发布了最新版本的代码和Lora权重。
+- **2024/08/15**: NexusAD was submitted to ECCV 2024 and achieved a score of 68.97.
+- **2024/08/15**: The NexusAD team released the latest version of the code and LoRA weights.
 
 ---
 
 
-## 🚀 快速开始 <a name="getting-started"></a>
+## 🚀 Quick Start <a name="getting-started"></a>
 
-请按照以下步骤开始使用 NexusAD：
+Follow these steps to start using NexusAD:
 
-1. **克隆仓库**：
-   ```bash
+1. **Clone the repository**:
+   %%%bash
    git clone https://github.com/OpenVisualLab/NexusAD.git
    cd NexusAD
-   ```
+   %%%
 
-2. **安装依赖**：
-   ```bash
+2. **Install dependencies**:
+   %%%bash
    pip install -r requirements.txt
-   ```
+   %%%
 
-3. **下载 [CODA-LM 数据集](https://example.com/coda-lm-dataset)** 并将其放置在指定目录中。
+3. **Download the [CODA-LM Dataset](https://example.com/coda-lm-dataset)** and place it in the specified directory.
 
-4. **下载 [LoRA 权重](https://example.com/lora-weights)** 并放置在 `weights/` 目录下。
+4. **Download the [LoRA Weights](https://example.com/lora-weights)** and place them in the `weights/` directory.
 
-5. **运行模型**：
-   ```bash
+5. **Run the model**:
+   %%%bash
    python preprocess.py --data_path <path-to-CODA-LM>
    python train.py --config config.json
    python evaluate.py --data_path <path-to-evaluation-set>
-   ```
+   %%%
 
 ---
 
-## ⚙️ 模型架构 <a name="model-architecture"></a>
+## ⚙️ Model Architecture <a name="model-architecture"></a>
 
-NexusAD 模型架构由以下几部分组成：
+The NexusAD model architecture consists of the following components:
 
-1. **初步视觉感知**：使用 **Grounding DINO** 进行对象检测，使用 **DepthAnything v2** 进行深度估计，将空间信息转换为易于理解的结构化文本。
+1. **Preliminary Visual Perception**: Uses **Grounding DINO** for object detection and **DepthAnything v2** for depth estimation, transforming spatial information into easily understandable structured text.
    
-2. **场景感知增强检索生成**：使用 **Retrieval-Augmented Generation (RAG)** 技术，检索和选择相关样本以增强对复杂驾驶场景的理解。
+2. **Scene-aware Enhanced Retrieval Generation**: Utilizes **Retrieval-Augmented Generation (RAG)** to retrieve and select relevant samples, enhancing understanding of complex driving scenarios.
 
-3. **驾驶提示优化**：通过 **Chain-of-Thought (CoT)** 提示，生成基于上下文的结构化驾驶建议。
+3. **Driving Prompt Optimization**: Uses **Chain-of-Thought (CoT)** prompting to generate context-aware, structured driving suggestions.
 
-4. **精细调优**：我们使用 **LoRA** 技术进行高效的参数微调，以优化性能并节省计算资源。
-
----
-
-## 📊 实验结果 <a name="results"></a>
-
-在 ECCV 2024 的角落案例理解任务中，NexusAD 的表现超过了基准模型，取得了 **68.97** 的最终得分：
-
-| 模型                | 一般感知   | 区域感知   | 驾驶建议   | 最终得分  |
-|--------------------|------------|------------|------------|----------|
-| GPT-4V             | 57.50      | 56.26      | 63.30      | 59.02    |
-| CODA-VLM           | 55.04      | 77.68      | 58.14      | 63.62    |
-| InternVL-2.0-26B   | 43.39      | 64.91      | 48.04      | 52.11    |
-| **NexusAD (Ours)** | **57.58**  | **84.31**  | **65.02**  | **68.97**|
+4. **Fine-tuning**: Efficient parameter fine-tuning is performed using **LoRA** to optimize performance while saving computational resources.
 
 ---
 
-## 💡 贡献指南 <a name="contributing"></a>
+## 📊 Experimental Results <a name="results"></a>
 
-我们欢迎任何形式的贡献！请查看 [CONTRIBUTING.md](CONTRIBUTING.md) 了解如何参与。
+In the ECCV 2024 Corner Case Understanding task, NexusAD outperformed baseline models, achieving a final score of **68.97**:
+
+| Model                | General Perception | Regional Perception | Driving Suggestions | Final Score  |
+|----------------------|--------------------|---------------------|---------------------|--------------|
+| GPT-4V               | 57.50              | 56.26               | 63.30               | 59.02        |
+| CODA-VLM             | 55.04              | 77.68               | 58.14               | 63.62        |
+| InternVL-2.0-26B     | 43.39              | 64.91               | 48.04               | 52.11        |
+| **NexusAD (Ours)**   | **57.58**          | **84.31**           | **65.02**           | **68.97**    |
 
 ---
 
-## 📜 许可与引用 <a name="license"></a>
+## 💡 Contribution Guidelines <a name="contributing"></a>
 
-本项目根据 [MIT 许可](./LICENSE) 发布。如果该项目对你的研究有帮助，请引用以下内容：
+We welcome all forms of contributions! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to participate.
 
-```BibTeX
+---
+
+## 📜 License & Citation <a name="license"></a>
+
+This project is licensed under the [MIT License](./LICENSE). If you find this project helpful in your research, please cite it as follows:
+
+%%%BibTeX
 @article{mo2024nexusad,
   title={NexusAD: Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving},
   author={Mo, Mengjingcheng and Wang, Jingxin and Wang, Like and Chen, Haosheng and Gu, Changjun and Leng, Jiaxu and Gao, Xinbo},
   journal={ECCV 2024 Autonomous Driving Workshop},
   year={2024}
 }
-```
+%%%
 
 ---
 
-## 🙏 致谢 <a name="acknowledgments"></a>
+## 🙏 Acknowledgments <a name="acknowledgments"></a>
 
-特别感谢以下项目为 NexusAD 的开发提供了重要参考和支持：
+Special thanks to the following projects for providing key references and support for the development of NexusAD:
 
-- **[InternVL](https://github.com/OpenGVLab/InternVL)**：为多模态视觉语言模型的开发提供了关键技术支持。
-- **[CODA-LM](https://github.com/DLUT-LYZ/CODA-LM)**：为角落案例理解任务提供了数据集和相关资源。
+- **[InternVL](https://github.com/OpenGVLab/InternVL)**: Provided crucial technical support for the development of multimodal vision-language models.
+- **[CODA-LM](https://github.com/DLUT-LYZ/CODA-LM)**: Provided datasets and resources for the corner case understanding task.
 
 ---
 
-<p align="right">(<a href="#top">回到顶部</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
