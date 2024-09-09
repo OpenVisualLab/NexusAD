@@ -5,7 +5,7 @@
 </p>
 
 # **🚗 NexusAD**  
-*Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving*
+*Exploring the Nexus for Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving*
 
 **⚠️ 注意：目前代码还在更新中，敬请期待更多功能和改进。**
 
@@ -21,6 +21,8 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
 [![arXiv](https://img.shields.io/badge/arXiv-2312.14150-b31b1b.svg)](https://openreview.net/forum?id=example-link)
 [![Latest Release](https://img.shields.io/badge/Latest%20release-v1.1-yellow)](#getting-started)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-NexusAD-orange)](https://huggingface.co/OpenVisualLab/NexusAD)
+
 
 </div>
 
@@ -51,17 +53,6 @@
 
 ---
 
-## 📂 目录
-
-1. [🌟 项目亮点](#highlight)
-2. [🚀 快速开始](#getting-started)
-3. [⚙️ 模型架构](#model-architecture)
-4. [📊 实验结果](#results)
-5. [💡 贡献指南](#contributing)
-6. [📜 许可与引用](#license)
-7. [🙏 致谢](#acknowledgments)
-
----
 
 ## 🚀 快速开始 <a name="getting-started"></a>
 
