@@ -43,7 +43,7 @@
   Also participated in the **[W-CODA 2024 Challenge](https://coda-dataset.github.io/w-coda2024/track1/)** Track 1.
 
 <p align="center">
-  <img src="assets/images/repo/nexusad_architecture.jpg" alt="NexusAD Architecture" width="600">
+  <img src="assets/fig1.png" alt="NexusAD Architecture" width="80%">
 </p>
 
 ---
