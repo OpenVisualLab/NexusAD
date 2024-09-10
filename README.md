@@ -5,6 +5,7 @@
 </p>
 
 # **🚗 NexusAD**  
+
 *Exploring the Nexus for Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving*
 
 **⚠️ Note: The code is currently being updated, stay tuned for more features and improvements.**
@@ -23,7 +24,6 @@
 [![OpenReview](https://img.shields.io/badge/OpenReview-LXZO1nGI0d-b31b1b.svg)](https://openreview.net/forum?id=LXZO1nGI0d)
 [![Latest Release](https://img.shields.io/badge/Latest%20release-v1.1-yellow)](#getting-started)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-NexusAD-orange)](https://huggingface.co/OpenVisualLab/NexusAD)
-
 
 </div>
 
@@ -55,32 +55,34 @@
 
 ---
 
-
 ## 🚀 Quick Start <a name="getting-started"></a>
 
 Follow these steps to start using NexusAD:
 
 1. **Clone the repository**:
-   %%%bash
+
+   ```bash
    git clone https://github.com/OpenVisualLab/NexusAD.git
    cd NexusAD
-   %%%
+   ```
 
 2. **Install dependencies**:
-   %%%bash
+
+   ```bash
    pip install -r requirements.txt
-   %%%
+   ```
 
 3. **Download the [CODA-LM Dataset](https://example.com/coda-lm-dataset)** and place it in the specified directory.
 
 4. **Download the [LoRA Weights](https://example.com/lora-weights)** and place them in the `weights/` directory.
 
 5. **Run the model**:
-   %%%bash
+
+   ```bash
    python preprocess.py --data_path <path-to-CODA-LM>
    python train.py --config config.json
    python evaluate.py --data_path <path-to-evaluation-set>
-   %%%
+   ```
 
 ---
 
@@ -89,7 +91,7 @@ Follow these steps to start using NexusAD:
 The NexusAD model architecture consists of the following components:
 
 1. **Preliminary Visual Perception**: Uses **Grounding DINO** for object detection and **DepthAnything v2** for depth estimation, transforming spatial information into easily understandable structured text.
-   
+
 2. **Scene-aware Enhanced Retrieval Generation**: Utilizes **Retrieval-Augmented Generation (RAG)** to retrieve and select relevant samples, enhancing understanding of complex driving scenarios.
 
 3. **Driving Prompt Optimization**: Uses **Chain-of-Thought (CoT)** prompting to generate context-aware, structured driving suggestions.
@@ -121,14 +123,14 @@ We welcome all forms of contributions! Please refer to [CONTRIBUTING.md](CONTRIB
 
 This project is licensed under the [MIT License](./LICENSE). If you find this project helpful in your research, please cite it as follows:
 
-%%%BibTeX
+```BibTeX
 @article{mo2024nexusad,
   title={NexusAD: Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving},
   author={Mo, Mengjingcheng and Wang, Jingxin and Wang, Like and Chen, Haosheng and Gu, Changjun and Leng, Jiaxu and Gao, Xinbo},
   journal={ECCV 2024 Autonomous Driving Workshop},
   year={2024}
 }
-%%%
+```
 
 ---
 
