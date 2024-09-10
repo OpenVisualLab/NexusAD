@@ -10,7 +10,7 @@
 
 **⚠️ Note: The code is currently being updated, stay tuned for more features and improvements.**
 
-`ECCV 2024 Autonomous Driving Workshop` **Corner Case Scene Understanding** [Leaderboard](https://eccv2024.autonomousdriving.com)  
+`ECCV 2024 Autonomous Driving Workshop` **Corner Case Scene Understanding** [Leaderboard](https://coda-dataset.github.io/w-coda2024/track1/#Leaderboard)  
 **W-CODA 2024 Challenge** [Track 1](https://coda-dataset.github.io/w-coda2024/track1/)
 
 </div>
@@ -19,10 +19,9 @@
 
 <div id="top" align="center">
 
-[![Project Page](https://img.shields.io/badge/Project%20Page-8A2BE2)](https://opendrivelab.com/DriveLM/)
+[![Team Page](https://img.shields.io/badge/Project%20Page-8A2BE2)](https://openvisuallab.github.io/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
 [![OpenReview](https://img.shields.io/badge/OpenReview-LXZO1nGI0d-b31b1b.svg)](https://openreview.net/forum?id=LXZO1nGI0d)
-[![Latest Release](https://img.shields.io/badge/Latest%20release-v1.1-yellow)](#getting-started)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-NexusAD-orange)](https://huggingface.co/OpenVisualLab/NexusAD)
 
 </div>
@@ -31,7 +30,7 @@
 
 ## ✍️ Authors <a name="authors"></a>
 
-- Mengjingcheng Mo, Jingxin Wang, Like Wang, Haosheng Chen, Changjun Gu, Jiaxu Leng, Xinbo Gao  
+- Mengjingcheng Mo, Jingxin Wang, Like Wang, Haosheng Chen, Changjun Gu, Jiaxu Leng<sup>*</sup>, Xinbo Gao<sup>*</sup>  
   Chongqing University of Posts and Telecommunications
 
 ---
@@ -39,8 +38,8 @@
 ## 🌟 Project Highlights <a name="highlight"></a>
 
 - 🔥 **NexusAD** introduces a multimodal perception and understanding framework based on **InternVL-2.0**, significantly improving detection, depth estimation, and reasoning abilities for complex scenarios through fine-tuning on the **CODA-LM** dataset.
-- 🏁 **NexusAD** participated in the [**`ECCV 2024 Autonomous Driving Workshop`**](https://eccv2024.autonomousdriving.com), focusing on multimodal scene understanding tasks in extreme driving scenarios.  
-  Also participated in the **[W-CODA 2024 Challenge](https://coda-dataset.github.io/w-coda2024/track1/)** Track 1.
+- 🏁 **NexusAD** participated in the [**`ECCV 2024 Autonomous Driving Workshop`**](https://coda-dataset.github.io/w-coda2024/), focusing on multimodal scene understanding tasks in extreme driving scenarios.  
+  Also participated in the **W-CODA 2024 Challenge** [Track 1](https://coda-dataset.github.io/w-coda2024/track1/).
 
 <p align="center">
   <img src="assets/fig1.png" alt="NexusAD Architecture" width="80%">
@@ -72,9 +71,9 @@ Follow these steps to start using NexusAD:
    pip install -r requirements.txt
    ```
 
-3. **Download the [CODA-LM Dataset](https://example.com/coda-lm-dataset)** and place it in the specified directory.
+3. **Download the [CODA-LM Dataset](https://github.com/DLUT-LYZ/CODA-LM)** and place it in the specified directory.
 
-4. **Download the [LoRA Weights](https://example.com/lora-weights)** and place them in the `weights/` directory.
+4. **Download the [LoRA Weights](https://huggingface.co/OpenVisualLab/NexusAD)** and place them in the `weights/` directory.
 
 5. **Run the model**:
 
