@@ -1,0 +1,3 @@
+The predicted text closely relates to the reference text by discussing the implications of a parked car on the driving behavior of an ego vehicle. Both texts emphasize the importance of maintaining a safe distance from parked vehicles to avoid potential hazards. The prediction expands on the topic by detailing specific driving considerations, such as obstacle detection, lane management, visibility, and space reduction, which are relevant to the context of autonomous driving. Overall, the predicted text is relevant and provides additional insights that align well with the reference text.
+
+Rating: [[9]]

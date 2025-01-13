@@ -1,0 +1,3 @@
+The predicted text discusses a green garbage bin as an obstruction that can affect the ego car's driving, which aligns with the reference text's focus on a waste container as a potential obstruction. Both texts emphasize the need for the driver (or the car's navigation system) to adjust their path to avoid collisions and maintain safety. The predicted text expands on the implications of the obstruction, including visibility issues and collision risks, which adds depth to the discussion but remains relevant to the core topic of navigating around obstacles. Overall, the predicted text is highly relevant and similar in context to the reference text.
+
+Rating: [[9]]

@@ -1,0 +1,3 @@
+The predicted text discusses the implications of large trucks on the driving behavior of an ego car, which aligns with the reference text's focus on a heavy goods vehicle (HGV) and its impact on driving. Both texts emphasize the need for increased following distance and caution due to the size and operational characteristics of large vehicles. The predicted text expands on this by detailing specific factors such as visibility, space management, braking, and blind spots, which are relevant to the context of driving near large trucks. Overall, the predicted text is highly relevant and similar in theme to the reference text.
+
+Rating: [[9]]

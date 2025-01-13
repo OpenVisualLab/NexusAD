@@ -1,0 +1,3 @@
+The predicted text discusses a large construction vehicle and its implications for the ego car's driving, which aligns with the reference text's focus on a similar scenario involving a construction vehicle. Both texts emphasize the need for caution, maintaining a safe distance, and the potential impact on driving speed and visibility. However, the predicted text introduces additional details about the vehicle's direction and specific driving maneuvers, which are not explicitly mentioned in the reference text. Overall, the predicted text is relevant and maintains a similar theme, but it diverges slightly in focus and detail.
+
+Rating: [[8]]

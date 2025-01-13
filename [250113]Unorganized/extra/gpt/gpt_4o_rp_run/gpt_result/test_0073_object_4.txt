@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts describe the function of a traffic cone in redirecting traffic and signaling potential hazards. The predicted text also mentions the implications for a self-driving car, which adds a relevant perspective but does not detract from the core information about the traffic cone itself. Overall, the similarity in the description and purpose of the traffic cone is strong, making the predicted text highly relevant.
+
+Rating: [[9]]

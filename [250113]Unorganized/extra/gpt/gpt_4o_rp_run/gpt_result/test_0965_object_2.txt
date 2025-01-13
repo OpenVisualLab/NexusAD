@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the challenges and considerations that an ego car (autonomous vehicle) must take into account when interacting with large commercial vehicles, specifically trucks. The predicted text expands on the reference text by detailing specific factors such as obstacle detection, lane guidance, speed adjustment, maneuvering, and visibility, which are all relevant to the safe operation of autonomous vehicles around large trucks. The emphasis on safety and the potential hazards posed by trucks is consistent in both texts.
+
+Rating: [[9]]

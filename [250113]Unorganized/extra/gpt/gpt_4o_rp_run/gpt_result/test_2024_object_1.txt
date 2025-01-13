@@ -1,0 +1,5 @@
+The reference text discusses a red traffic light and its implications for an ego vehicle, specifically focusing on the need to stop at a red light. In contrast, the prediction text describes a cement mixer truck and its impact on driving behavior, emphasizing visibility, safety distance, and other considerations when driving behind such a vehicle. 
+
+While both texts relate to driving and the behavior of the ego vehicle, they focus on different objects and scenarios. The reference text is about a traffic signal, while the prediction text is about a truck. Therefore, the relevance and similarity between the two texts are low, as they do not share a common subject or context.
+
+Rating: [[3]]

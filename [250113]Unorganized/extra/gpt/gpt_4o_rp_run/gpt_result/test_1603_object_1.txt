@@ -1,0 +1,3 @@
+The reference text discusses traffic cones, their purpose in redirecting traffic, and their significance for autonomous vehicles in terms of alertness and adjustments to driving behavior. The prediction text, however, focuses on traffic cameras or sensors, detailing their functions and implications for autonomous driving. While both texts relate to traffic management and autonomous vehicle operation, they address different objects and their respective roles. The prediction text does not directly relate to the traffic cone mentioned in the reference text, leading to a lower relevance score.
+
+Rating: [[4]]

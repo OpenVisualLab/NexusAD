@@ -1,0 +1,3 @@
+The predicted text closely relates to the reference text by discussing construction equipment and its implications for traffic and driving behavior. Both texts highlight the presence of construction machinery and its potential impact on traffic patterns, such as the need for reduced speeds and lane changes. The predicted text expands on this by detailing specific ways the ego car must respond to the construction scenario, including obstructions, hazards, and the need for increased awareness for worker safety. Overall, the predicted text is relevant and provides a deeper analysis of the situation described in the reference text.
+
+Rating: [[9]]

@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the implications of a construction vehicle (specifically an excavator) on the driving behavior of an ego car. The predicted text elaborates on specific ways the excavator can impact driving, such as road obstruction, reduced visibility, sudden movements, and debris, which are relevant to the cautionary advice given in the reference text. Overall, the predicted text effectively expands on the themes presented in the reference text while maintaining relevance.
+
+Rating: [[9]]

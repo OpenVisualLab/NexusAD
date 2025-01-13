@@ -1,0 +1,5 @@
+The predicted text effectively summarizes the function of a traffic cone and expands on its implications for an autonomous driving system. It maintains relevance by discussing how the presence of a traffic cone affects the ego car's navigation and driving decisions, which aligns with the reference text's focus on the cone's role in directing traffic and indicating hazards. The predicted text also introduces specific scenarios where the cone's presence is significant, enhancing the understanding of its importance in road safety.
+
+Overall, the predicted text is highly relevant and closely related to the reference text, providing additional context and application in the realm of autonomous driving.
+
+Rating: [[9]]

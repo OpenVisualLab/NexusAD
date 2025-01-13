@@ -1,0 +1,3 @@
+The predicted text provides a detailed analysis of the implications of driving near a large truck, which aligns well with the reference text's focus on the truck's visibility and the need for the ego car to maintain a safe following distance. Both texts emphasize the importance of safety and awareness when interacting with large vehicles. The predicted text expands on the reference by discussing additional factors such as lane management, visibility issues, speed regulation, stopping distance, blind spots, and wind turbulence, which are all relevant to the context of driving near a truck. Overall, the predicted text is highly relevant and closely related to the reference text.
+
+Rating: [[9]]

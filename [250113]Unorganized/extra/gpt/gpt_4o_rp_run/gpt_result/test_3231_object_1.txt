@@ -1,0 +1,3 @@
+The reference text discusses the function of a green traffic light and its implications for vehicle movement, emphasizing safety and traffic regulation. In contrast, the prediction text focuses on a construction truck and the necessary adjustments an ego car must make in response to roadwork. While both texts relate to driving scenarios and the importance of safety, they address different situations: one about traffic signals and the other about road hazards due to construction. The connection between them is weak, as they do not share a common theme or context beyond the general topic of driving.
+
+Rating: [[4]]

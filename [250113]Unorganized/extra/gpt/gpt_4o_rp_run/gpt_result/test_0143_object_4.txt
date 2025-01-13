@@ -1,0 +1,3 @@
+The predicted text closely relates to the reference text by discussing traffic cones and their purpose in guiding and warning drivers about hazards. Both texts emphasize the visibility and function of traffic cones in road safety, particularly in the context of roadwork or obstructions. The predicted text expands on the implications for autonomous vehicles, detailing how they must respond to the presence of traffic cones, which adds a layer of relevance to the topic of autonomous driving. Overall, the predicted text maintains a strong connection to the reference text while providing additional context.
+
+Rating: [[9]]

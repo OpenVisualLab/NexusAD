@@ -1,0 +1,5 @@
+The reference text discusses the behavior and considerations of a bus on the road, emphasizing the need for the ego vehicle's driver to be aware of the bus's movements and the potential for sudden stops. In contrast, the prediction text focuses on traffic lights and their importance for the operation of an autonomous vehicle, detailing how they regulate traffic, enhance safety, and assist in navigation. 
+
+While both texts relate to driving and the operation of vehicles, they address different aspects of road safety and vehicle interaction. The reference text is specifically about buses and their impact on driving behavior, while the prediction text centers on traffic lights and their role in traffic regulation. Therefore, the relevance and similarity between the two texts are low.
+
+Rating: [[3]]

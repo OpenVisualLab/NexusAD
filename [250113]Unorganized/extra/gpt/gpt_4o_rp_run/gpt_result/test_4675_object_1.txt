@@ -1,0 +1,3 @@
+The predicted text discusses a parked car and its implications for the ego car's driving behavior, similar to the reference text. Both texts emphasize the need for the ego car to maintain a safe distance and be cautious of potential obstacles. However, the predicted text introduces additional considerations, such as the impact on navigation systems and the need for recalibration, which are not mentioned in the reference text. Overall, while both texts are relevant and address the same scenario, the predicted text expands on the topic with more detail.
+
+Rating: [[8]]

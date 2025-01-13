@@ -1,0 +1,3 @@
+The reference text discusses the behavior and considerations for a large commercial vehicle, emphasizing safe driving practices around it. The prediction text, however, focuses on a different object (a cart or trolley) and its implications for the ego vehicle's navigation. While both texts address the need for caution and safe driving in the presence of obstacles, they refer to different types of objects and contexts. The core themes of safety and navigation are present, but the specific subjects differ significantly.
+
+Rating: [[5]]

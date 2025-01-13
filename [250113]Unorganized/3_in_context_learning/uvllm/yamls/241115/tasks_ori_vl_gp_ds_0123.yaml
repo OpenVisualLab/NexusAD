@@ -1,0 +1,44 @@
+config:
+  data_root: "/data2/datasets/drivelm/data/coda"
+  batch_size: 1
+
+# tasks = ['general_perception', 'region_perception', 'driving_suggestion']
+# 
+
+tasks:
+  - model_dir: "/data2/datasets/drivelm/output4/1112_ds_icl_ift/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/00_241115_rank/test_vt_ds_v1_2_bert.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output4/res_tab_retrieval/run_ds_bert.jsonl"
+    gpu: 0
+  - model_dir: "/data2/datasets/drivelm/output4/1112_ds_icl_ift/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/00_241115_rank/test_vt_ds_v1_2_lvlm.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output4/res_tab_retrieval/run_ds_lvlm.jsonl"
+    gpu: 1
+  - model_dir: "/data2/datasets/drivelm/output4/1112_ds_icl_ift/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/00_241115_rank/test_vt_ds_v1_2_mse.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output4/res_tab_retrieval/run_ds_mse.jsonl"
+    gpu: 2
+  - model_dir: "/data2/datasets/drivelm/output4/1112_ds_icl_ift/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/00_241115_rank/test_vt_ds_v1_2_ssim.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output4/res_tab_retrieval/run_ds_ssim.jsonl"
+    gpu: 3
+  #  --------
+  - model_dir: "/data2/datasets/drivelm/output4/1112_gp_icl_ift/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/00_241115_rank/test_vt_gp_v1_2_bert.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output4/res_tab_retrieval/run_gp_bert.jsonl"
+    gpu: 0
+  - model_dir: "/data2/datasets/drivelm/output4/1112_gp_icl_ift/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/00_241115_rank/test_vt_gp_v1_2_lvlm.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output4/res_tab_retrieval/run_gp_lvlm.jsonl"
+    gpu: 1
+  - model_dir: "/data2/datasets/drivelm/output4/1112_gp_icl_ift/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/00_241115_rank/test_vt_gp_v1_2_mse.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output4/res_tab_retrieval/run_gp_mse.jsonl"
+    gpu: 2
+  - model_dir: "/data2/datasets/drivelm/output4/1112_gp_icl_ift/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/00_241115_rank/test_vt_gp_v1_2_ssim.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output4/res_tab_retrieval/run_gp_ssim.jsonl"
+    gpu: 3
+
+
+

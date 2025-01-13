@@ -1,0 +1,3 @@
+The predicted text discusses traffic barriers, their purpose, and their impact on self-driving cars, which aligns well with the reference text's focus on barriers and their role in traffic management. Both texts emphasize the importance of barriers in directing traffic and ensuring safety. The predicted text expands on the implications for autonomous vehicles, detailing how they should respond to barriers, which adds relevant context. Overall, the predicted text is closely related to the reference text in terms of subject matter and relevance.
+
+Rating: [[9]]

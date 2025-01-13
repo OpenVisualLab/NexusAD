@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Answers on Regional Perception Task</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 40px;
+            background-color: #f4f6f9;
+            color: #333;
+            font-size: 12px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 28px;
+            color: #2c3e50;
+        }
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 20px;
+            margin-bottom: 40px;
+        }
+        .pagination button {
+            margin: 5px;
+            padding: 5px 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #fff;
+            color: #007bff;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .pagination button:hover {
+            background-color: #f1f1f1;
+        }
+        .pagination button:disabled {
+            background-color: #e0e0e0;
+            color: #999;
+            cursor: not-allowed;
+        }
+        .pagination input[type="number"] {
+            width: 60px;
+            padding: 5px;
+            margin: 0 5px;
+            text-align: center;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .group-container {
+            background-color: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 40px;
+        }
+        .group-title {
+            font-size: 16px;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        .image-and-human-container {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .image-container {
+            width: 48%;
+        }
+        .image-container img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+        }
+        .human-annotation {
+            width: 48%;
+            border: 1px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 15px;
+            background-color: #f9f9f9;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        }
+        .human-annotation h3 {
+            background-color: rgba(44, 62, 80, 0.8);
+            color: #ffffff;
+            padding: 4px 10px;
+            border-radius: 8px;
+            margin: 0 0 8px 0;
+            font-size: 18px;
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+        .model {
+            border: 1px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        }
+        .model h3 {
+            padding: 4px 8px;
+            border-radius: 6px;
+            margin: 0;
+            font-size: 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #cccccc;
+            color: #333333;
+        }
+        .score {
+            font-style: italic;
+            font-size: 14px;
+            margin-left: 10px;
+        }
+        .score .gp {
+            color: #ff0000;
+            font-weight: bold;
+        }
+        .score .ds {
+            color: #0000ff;
+            font-weight: bold;
+        }
+        .model p {
+            margin: 4px 0;
+            line-height: 1.5;
+        }
+        .object strong {
+            color: #2c3e50;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="pagination">
+        <form action="/" method="get">
+            <button type="submit" onclick="updatePageInput({{ current_page - 1 }})" {% if current_page <= 1 %}disabled{% endif %}>Previous Group</button>
+            <input id="page-input" type="number" name="page" min="1" max="{{ total_pages }}" value="{{ current_page }}" required>
+            <button type="submit" onclick="updatePageInput({{ current_page + 1 }})" {% if current_page >= total_pages %}disabled{% endif %}>Next Group</button>
+        </form>
+    </div>
+
+    <h1>Model Answers on Regional Perception Task</h1>
+
+    {% for group in data_groups %}
+        <div class="group-container">
+            <div class="group-title">{{ group.image_path }}</div>
+            <div class="image-and-human-container">
+                <div class="image-container">
+                    <img src="{{ group.image_path }}" alt="Image for perception task">
+                </div>
+                <!-- 仅显示 Human 标注 -->
+                {% if 'Human' in group.models %}
+                <div class="human-annotation">
+                    <h3>Human Annotation</h3>
+                    <div class="object">
+                        <p><strong>General Perception:</strong> {{ group.models['Human'][0] }}</p>
+                    </div>
+                    <div class="object">
+                        <p><strong>Driving Suggestion:</strong> {{ group.models['Human'][1] }}</p>
+                    </div>
+                </div>
+                {% endif %}
+            </div>
+
+            <div class="grid-container">
+                <!-- 遍历所有模型，排除 Human -->
+                {% for model_name, outputs in group.models.items() if model_name != 'Human' %}
+                    <div class="model">
+                        <h3 data-model="{{ model_name }}">
+                            {{ model_name }}
+                            <span class="score">
+                                <span class="gp">GP: {{ outputs[0][1] }}</span>, 
+                                <span class="ds">DS: {{ outputs[1][1] }}</span>
+                            </span>
+                        </h3>
+                        <div class="object">
+                            <p><strong>General Perception:</strong> {{ outputs[0][0] }}</p>
+                        </div>
+                        <div class="object">
+                            <p><strong>Driving Suggestion:</strong> {{ outputs[1][0] }}</p>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    {% endfor %}
+
+    <script>
+        function updatePageInput(page) {
+            document.getElementById("page-input").value = page;
+        }
+    </script>
+</body>
+</html>

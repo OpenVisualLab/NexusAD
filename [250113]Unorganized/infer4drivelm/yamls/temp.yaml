@@ -1,0 +1,38 @@
+config:
+  data_root: "/data2/datasets/drivelm/data/coda"
+  batch_size: 1
+
+tasks:
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output/internvl2-26b/v11-20241117-140830/checkpoint-2760"
+    json_path: "/data1/nemo/projects/241009_DriveLM/drivelm_data_demo/test_swift.jsonl"
+    out_json_path: "/data1/nemo/projects/241009_DriveLM/241121_test2/test_pred_26b_3.json"
+    gpu: [1,2,3]
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output/internvl2-26b/v11-20241117-140830/checkpoint-4601"
+    json_path: "/data1/nemo/projects/241009_DriveLM/drivelm_data_demo/test_swift.jsonl"
+    out_json_path: "/data1/nemo/projects/241009_DriveLM/241121_test2/test_pred_26b_5.json"
+    gpu: [1,2,3]
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output/internvl2-26b/v11-20241117-140830/checkpoint-5521"
+    json_path: "/data1/nemo/projects/241009_DriveLM/drivelm_data_demo/test_swift.jsonl"
+    out_json_path: "/data1/nemo/projects/241009_DriveLM/241121_test2/test_pred_26b_6.json"
+    gpu: [1,2,3]
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output/internvl2-26b/v11-20241117-140830/checkpoint-6442"
+    json_path: "/data1/nemo/projects/241009_DriveLM/drivelm_data_demo/test_swift.jsonl"
+    out_json_path: "/data1/nemo/projects/241009_DriveLM/241121_test2/test_pred_26b_7.json"
+    gpu: [1,2,3]
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output/internvl2-26b/v11-20241117-140830/checkpoint-7362"
+    json_path: "/data1/nemo/projects/241009_DriveLM/drivelm_data_demo/test_swift.jsonl"
+    out_json_path: "/data1/nemo/projects/241009_DriveLM/241121_test2/test_pred_26b_8.json"
+    gpu: [1,2,3]
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output/internvl2-26b/v11-20241117-140830/checkpoint-8282"
+    json_path: "/data1/nemo/projects/241009_DriveLM/drivelm_data_demo/test_swift.jsonl"
+    out_json_path: "/data1/nemo/projects/241009_DriveLM/241121_test2/test_pred_26b_9.json"
+    gpu: [1,2,3]
+
+
+

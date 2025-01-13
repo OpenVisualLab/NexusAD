@@ -1,0 +1,5 @@
+The reference text discusses the specific traffic signal indicating a left turn, emphasizing the actions drivers must take while being aware of their surroundings. In contrast, the prediction text focuses on the implications of a bus's presence on an autonomous vehicle's navigation, detailing how it can obstruct views, occupy lanes, and affect the vehicle's response to sudden stops or turns. 
+
+While both texts relate to driving and vehicle behavior, they address different aspects of the driving environment: one is about traffic signals and driver actions, while the other is about the challenges posed by other vehicles (specifically buses) to autonomous driving systems. Therefore, the relevance and similarity between the two texts are low.
+
+Rating: [[3]]

@@ -1,0 +1,3 @@
+The predicted text discusses a large construction vehicle and its implications for the ego car's driving behavior, similar to the reference text. Both texts emphasize the need for caution and adaptability in the presence of construction vehicles, highlighting potential obstacles, visibility issues, and the need to adjust speed. However, the predicted text specifies a different type of construction vehicle (road roller) and includes additional points about visibility and road conditions, which are relevant but slightly diverge from the focus of the reference text. Overall, the predicted text maintains a strong connection to the themes presented in the reference text, but with some variations in detail and emphasis.
+
+Rating: [[8]]

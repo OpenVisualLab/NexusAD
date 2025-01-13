@@ -1,0 +1,5 @@
+The predicted text provides a detailed analysis of how a construction vehicle, specifically a front loader, can impact the driving of an autonomous vehicle. It addresses several relevant points such as size and obstruction, unexpected movements, reduced visibility, and road conditions, which align well with the reference text's focus on the implications of a construction vehicle's presence near the ego vehicle. Both texts emphasize the need for the ego vehicle to be prepared for potential changes in driving conditions due to the construction vehicle. 
+
+Overall, the predicted text expands on the reference text by providing specific considerations for the ego vehicle, making it highly relevant and similar in context.
+
+Rating: [[9]]

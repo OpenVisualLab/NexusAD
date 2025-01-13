@@ -1,0 +1,7 @@
+The reference text discusses the presence of a large commercial vehicle (truck) and its implications for the ego vehicle's driving behavior, particularly in terms of visibility and the need to adjust speed when overtaking. The prediction text, on the other hand, focuses on a person on a motorcycle or scooter and the potential hazards they pose to the ego vehicle, emphasizing the need for caution and safe navigation.
+
+While both texts address the challenges posed by different types of road users (a truck versus a motorcycle/scooter), they do so in different contexts and with different focal points. The reference text is more about the implications of a large vehicle's presence, while the prediction text emphasizes the unpredictability and potential obstacles presented by a smaller vehicle and its rider.
+
+Overall, the two texts are related in that they both discuss the need for the ego vehicle to adjust its behavior in response to other road users, but they do not directly overlap in content or context. Therefore, the similarity is moderate but not strong.
+
+Rating: [[5]]

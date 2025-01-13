@@ -1,0 +1,3 @@
+The reference text discusses the behavior of mopeds in relation to ego cars, emphasizing the need for safe distance maintenance and awareness of their unique maneuverability. The prediction text, while focusing on a motorcycle or scooter, addresses similar themes such as obstacle avoidance, path prediction, and lane narrowing, which are relevant to the safe operation of an ego car in the presence of two-wheeled vehicles. Both texts highlight the importance of awareness and adaptive driving strategies in mixed traffic scenarios.
+
+Rating: [[9]]

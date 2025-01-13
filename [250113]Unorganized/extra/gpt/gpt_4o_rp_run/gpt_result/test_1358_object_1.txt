@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the function of traffic cones as temporary traffic control devices and their importance in guiding vehicles, particularly in the context of autonomous driving. The predicted text expands on the role of traffic cones in relation to ego cars, emphasizing the need for recognition and interpretation, which adds depth to the discussion without straying from the main topic. Overall, the similarity in subject matter and the relevance of the information presented warrant a high rating.
+
+Rating: [[9]]

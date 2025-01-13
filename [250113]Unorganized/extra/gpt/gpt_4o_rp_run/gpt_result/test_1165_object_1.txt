@@ -1,0 +1,5 @@
+The reference text discusses the behavior of an ego car in relation to an oncoming vehicle in the opposite lane, emphasizing the need for caution to avoid a head-on collision. In contrast, the prediction text focuses on a construction vehicle obstructing the lane and outlines various challenges it presents to the ego car, such as lane obstruction, reduced space, visibility issues, and potential delays. 
+
+While both texts address the ego car's navigation and safety, they focus on different scenarios: one on an oncoming vehicle and the other on a stationary construction vehicle. The themes of safety and navigation are present in both, but the specific situations and details differ significantly. Therefore, the relevance and similarity between the two texts are limited.
+
+Rating: [[4]]

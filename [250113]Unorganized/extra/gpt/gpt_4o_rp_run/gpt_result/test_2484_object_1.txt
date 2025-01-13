@@ -1,0 +1,3 @@
+The predicted text provides a detailed analysis of how a bus can impact the driving behavior of the ego car, which aligns with the reference text's focus on the interaction between the ego car and the bus. Both texts emphasize the importance of maintaining a safe following distance and adjusting driving behavior in response to the bus's movements. The predicted text expands on the reference by discussing additional factors such as traffic flow, visibility, and lane changes, which are relevant to the context of driving near a bus. Overall, the predicted text is highly relevant and closely related to the themes presented in the reference text.
+
+Rating: [[9]]

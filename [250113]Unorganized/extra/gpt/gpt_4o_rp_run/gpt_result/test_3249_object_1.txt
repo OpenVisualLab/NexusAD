@@ -1,0 +1,3 @@
+The predicted text discusses a construction vehicle and its impact on driving, which aligns with the reference text's focus on the same subject. Both texts emphasize the vehicle's size, potential for obstruction, and the need for the ego car to adjust its behavior accordingly. The predicted text expands on the implications of encountering a construction vehicle, detailing aspects like visibility and unpredictable movements, which are relevant to the context provided in the reference text. Overall, the predicted text maintains a strong relevance to the reference text while providing additional insights.
+
+Rating: [[9]]

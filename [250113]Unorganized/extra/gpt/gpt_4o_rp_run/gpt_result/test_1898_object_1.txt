@@ -1,0 +1,3 @@
+The reference text discusses the importance of maintaining a safe following distance behind a large motor vehicle, specifically a bus, to ensure safety on the road. It emphasizes the need for the ego car to react appropriately to the bus's actions. In contrast, the prediction text focuses on the role of road signs in driving, particularly for an ego car, and how they influence decision-making for safe driving. While both texts relate to the operation of an ego car, they address different aspects of driving safety: one focuses on the interaction with large vehicles, and the other on the interpretation of road signs. Therefore, while there is some thematic overlap regarding safe driving, the specific content and focus differ significantly.
+
+Rating: [[5]]

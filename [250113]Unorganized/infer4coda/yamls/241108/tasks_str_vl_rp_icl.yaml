@@ -1,0 +1,48 @@
+config:
+  data_root: "/data2/datasets/drivelm/data/coda"
+  batch_size: 1
+
+# tasks = ['general_perception', 'region_perception', 'driving_suggestion']
+# 
+
+tasks:
+  # - model_dir: ""
+  #   ckpt_dir: "/data2/datasets/drivelm/output3/new_str_vl_test_rp_ft_4/checkpoint-5100"
+  #   json_path: "/data2/datasets/drivelm/data/qas/icl/icl_test_region_perception.jsonl"
+  #   out_json_path: "/data2/datasets/drivelm/output4/241108_icl_rp_str_ft_4/str_vl_rp_icl_ft_4.jsonl"
+  #   gpu: 2
+  # - model_dir: ""
+  #   ckpt_dir: "/data2/datasets/drivelm/output4/1108_rp_icl_ft/checkpoint-1275"
+  #   json_path: "/data2/datasets/drivelm/data/qas/icl/icl_test_region_perception.jsonl"
+  #   out_json_path: "/data2/datasets/drivelm/output4/res_1108_rp_icl_ft/ft_rp_icl_run_1.jsonl"
+  #   gpu: 2
+  # - model_dir: ""
+  #   ckpt_dir: "/data2/datasets/drivelm/output4/1108_rp_icl_ft/checkpoint-2551"
+  #   json_path: "/data2/datasets/drivelm/data/qas/icl/icl_test_region_perception.jsonl"
+  #   out_json_path: "/data2/datasets/drivelm/output4/res_1108_rp_icl_ft/ft_rp_icl_run_2.jsonl"
+  #   gpu: 3
+  # - model_dir: ""
+  #   ckpt_dir: ""
+  #   json_path: "/data2/datasets/drivelm/data/qas/icl/icl_test_region_perception.jsonl"
+  #   out_json_path: "/data2/datasets/drivelm/output4/res_1108_rp_icl_ft/ori_rp_icl_run_0.jsonl"
+  #   gpu: 2
+  # - model_dir: ""
+  #   ckpt_dir: "/data2/datasets/drivelm/output4/1108_rp_icl_ft/checkpoint-3827"
+  #   json_path: "/data2/datasets/drivelm/data/qas/icl/icl_test_region_perception.jsonl"
+  #   out_json_path: "/data2/datasets/drivelm/output4/res_1108_rp_icl_ft/ft_rp_icl_run_3.jsonl"
+  #   gpu: 2
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output4/1108_rp_icl_ft/checkpoint-5100"
+    json_path: "/data2/datasets/drivelm/data/qas/icl/icl_test_region_perception.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output4/res_1108_rp_icl_ft/ft_rp_icl_run_4.jsonl"
+    gpu: 2
+
+
+
+ 
+  
+
+
+
+
+

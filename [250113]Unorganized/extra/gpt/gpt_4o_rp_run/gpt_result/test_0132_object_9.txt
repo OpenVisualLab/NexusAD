@@ -1,0 +1,7 @@
+The reference text discusses a worker in a high-visibility vest managing traffic or construction duties, emphasizing the importance of their presence in alerting drivers to potential roadwork. The prediction text, on the other hand, focuses on a traffic cone or bollard, detailing its role in guiding vehicles and ensuring safety during road work. 
+
+While both texts relate to traffic management and road work, the reference text centers on a human worker's role, whereas the prediction text describes an inanimate object (traffic cone) and its implications for the ego car's driving system. The connection between the two is somewhat indirect; they both address aspects of road safety and navigation but from different perspectives.
+
+Overall, the relevance is moderate, as they both pertain to traffic management but do not directly overlap in content or focus.
+
+Rating: [[6]]

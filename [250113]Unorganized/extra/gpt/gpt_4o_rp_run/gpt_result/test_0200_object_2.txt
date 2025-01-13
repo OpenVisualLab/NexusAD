@@ -1,0 +1,3 @@
+The reference text discusses traffic cones and their role in redirecting traffic and influencing driving behavior, while the predicted text focuses on a road barrier or construction warning sign and its implications for driving. Both texts address objects that signal construction or hazards on the road and their impact on the ego car's driving behavior. However, the specific objects being described are different (traffic cone vs. road barrier/sign), which affects the overall similarity. The predicted text maintains relevance to the theme of traffic management and safety but does not directly address the same object as the reference text.
+
+Rating: [[7]]

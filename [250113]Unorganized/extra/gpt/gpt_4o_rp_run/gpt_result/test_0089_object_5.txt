@@ -1,0 +1,3 @@
+The reference text discusses a bollard's role in traffic management and how an ego car should navigate around it. The prediction text, however, focuses on a traffic cone or pylon, outlining its implications for the ego car's driving behavior. While both texts address objects that influence driving, they refer to different types of objects (bollard vs. traffic cone) and their respective functions. The prediction text does not directly relate to the bollard mentioned in the reference text, leading to a lack of direct relevance.
+
+Rating: [[4]]

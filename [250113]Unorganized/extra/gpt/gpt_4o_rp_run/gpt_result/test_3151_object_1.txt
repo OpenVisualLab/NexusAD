@@ -1,0 +1,3 @@
+The predicted text discusses a large construction vehicle, specifically a concrete pump, and its implications for driving behavior, which aligns with the reference text's focus on a specialized construction vehicle and the need for the ego car to maintain a safe distance. Both texts emphasize the unpredictability of construction vehicles and the necessity for caution while driving near them. The predicted text expands on the topic by detailing specific driving impacts, such as visibility obstruction and speed variations, which are relevant to the context provided in the reference text. Overall, the predicted text is highly relevant and maintains a strong connection to the themes presented in the reference text.
+
+Rating: [[9]]

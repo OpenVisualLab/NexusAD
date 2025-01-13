@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the implications of driving near large vehicles, particularly trucks, and emphasize the need for the ego car to maintain a safe following distance, be cautious when overtaking, and be aware of visibility and blind spots. The predicted text expands on these points by detailing specific driving behaviors that should be adjusted in response to the presence of large vehicles, which adds depth to the discussion without deviating from the original topic. Overall, the predicted text is relevant and maintains a high degree of similarity to the reference text.
+
+Rating: [[9]]

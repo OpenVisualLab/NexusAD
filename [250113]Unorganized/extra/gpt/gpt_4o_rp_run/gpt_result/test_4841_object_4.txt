@@ -1,0 +1,3 @@
+The reference text discusses bollards, which are physical posts used to control traffic and protect certain areas from vehicle access. The prediction text, however, focuses on traffic signs and their importance in providing information to autonomous vehicles. While both texts relate to traffic management and the operation of autonomous vehicles, they address different objects and concepts. The prediction text does not directly relate to the specific topic of bollards mentioned in the reference text, making it less relevant.
+
+Rating: [[4]]

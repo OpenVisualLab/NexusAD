@@ -1,0 +1,3 @@
+The predicted text provides a detailed explanation of traffic cones, similar to the reference text. Both texts discuss the purpose of traffic cones in signaling changes in traffic patterns and the need for drivers (or an autonomous vehicle) to adjust their behavior accordingly. The predicted text expands on the concept by introducing the idea of an "ego car" and the technology involved in recognizing traffic cones, which adds depth but remains relevant to the original topic. Overall, the two texts are closely aligned in content and context.
+
+Rating: [[9]]

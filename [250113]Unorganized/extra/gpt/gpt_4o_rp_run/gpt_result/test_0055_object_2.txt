@@ -1,0 +1,3 @@
+The predicted text provides a detailed description of a bollard, similar to the reference text, and expands on its function in the context of autonomous driving. Both texts discuss the purpose of bollards in traffic control and emphasize the importance of avoiding collisions with them. The predicted text also introduces the concept of the "ego car" and its interaction with the bollard, which adds a relevant layer of information regarding autonomous driving systems. Overall, the predicted text is highly relevant and closely aligned with the reference text's content.
+
+Rating: [[9]]

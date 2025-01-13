@@ -1,0 +1,3 @@
+The predicted text closely relates to the reference text by discussing the implications of construction zones on driving behavior. Both texts emphasize the need for the ego car to adjust its speed and be cautious due to the presence of construction workers and materials. The predicted text expands on the topic by detailing specific scenarios and considerations that the ego car must account for, such as obstructions, dynamic environments, safety precautions, and potential detours. Overall, the predicted text is relevant and provides additional context that complements the reference text.
+
+Rating: [[9]]

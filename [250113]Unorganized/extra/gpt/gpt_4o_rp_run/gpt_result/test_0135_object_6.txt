@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the function of traffic cones as safety devices that indicate hazards such as road construction or lane closures. They also emphasize the need for the ego car to adjust its driving behavior in response to the presence of traffic cones. The predicted text elaborates slightly more on the actions the ego car might take, but the core message remains consistent with the reference text.
+
+Rating: [[9]]

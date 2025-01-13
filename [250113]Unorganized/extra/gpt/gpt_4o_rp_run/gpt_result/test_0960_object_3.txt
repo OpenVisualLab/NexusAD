@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the role of traffic cones in traffic management and their implications for drivers. The predicted text elaborates on the functions of traffic cones, such as indicating lane restrictions, alerting drivers to hazards, and serving as temporary traffic control, which are all relevant to the information provided in the reference text. The emphasis on driver awareness and safety further reinforces the connection between the two texts.
+
+Rating: [[9]]

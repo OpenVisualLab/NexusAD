@@ -1,0 +1,3 @@
+The predicted text discusses the role of traffic cones in the context of autonomous driving, similar to the reference text. Both texts highlight the function of traffic cones as indicators of potential hazards and the necessary actions the ego car should take in response. The predicted text elaborates on the implications of recognizing these cones, which aligns well with the reference text's focus on safety and navigation around obstacles. Overall, the predicted text maintains relevance and similarity to the reference text in terms of content and context.
+
+Rating: [[9]]

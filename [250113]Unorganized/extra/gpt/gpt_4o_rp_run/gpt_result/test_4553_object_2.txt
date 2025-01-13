@@ -1,0 +1,3 @@
+The reference text discusses traffic lights and their role in controlling traffic flow at intersections, while the prediction text focuses on traffic cones and their significance in guiding traffic safely. Although both texts relate to traffic management and the behavior of autonomous vehicles, they address different signaling devices and their implications for driving. The prediction text does not directly reference traffic lights or their functions, which makes it less relevant to the reference text. 
+
+Rating: [[4]]

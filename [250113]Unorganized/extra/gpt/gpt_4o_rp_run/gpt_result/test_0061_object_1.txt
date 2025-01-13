@@ -1,0 +1,3 @@
+The predicted text discusses a parked scooter, which is similar to the reference text's focus on a parked moped. Both texts emphasize the importance of the ego car's awareness and safe driving practices when encountering stationary two-wheeled vehicles. The predicted text expands on the implications of the parked scooter for the ego car's driving, including obstacle avoidance, path planning, and the need for a robust vision system. While the predicted text introduces additional technical aspects, it remains relevant to the core theme of safe navigation around stationary vehicles. 
+
+Rating: [[9]]

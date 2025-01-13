@@ -1,0 +1,3 @@
+The predicted text discusses the implications of a bus on the driving behavior of an ego car, which aligns with the reference text's focus on buses and their characteristics. Both texts emphasize the importance of maintaining a safe following distance and the potential for sudden stops. The predicted text expands on the topic by addressing traffic flow, visibility issues, space management, and decision-making, which are relevant to the context of driving around buses. Overall, the predicted text is relevant and closely related to the reference text.
+
+Rating: [[9]]

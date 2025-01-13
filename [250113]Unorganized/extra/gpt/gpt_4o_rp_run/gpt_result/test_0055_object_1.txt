@@ -1,0 +1,3 @@
+The reference text discusses traffic cones and their role in traffic management, emphasizing their visibility and the need for drivers to remain alert to potential hazards. The prediction text, on the other hand, focuses on caution signs, specifically those indicating wet floors or hazards, and how they inform the ego car's driving decisions. While both texts address safety devices that signal potential hazards to drivers, they refer to different objects (traffic cones vs. caution signs) and contexts (general driving vs. ego car driving). The core theme of alertness to hazards is present in both, but the specific details and objects differ significantly.
+
+Rating: [[5]]

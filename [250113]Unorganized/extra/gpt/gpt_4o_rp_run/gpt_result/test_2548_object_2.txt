@@ -1,0 +1,5 @@
+The reference text discusses the behavior and impact of construction vehicles on traffic and the need for the ego vehicle to adjust accordingly. The prediction text focuses specifically on forklifts, detailing their potential risks and impacts on driving, which aligns with the theme of vehicle interactions in traffic scenarios. Both texts emphasize the need for caution and adjustments in driving behavior due to the presence of these vehicles. However, the prediction text is more specific to forklifts rather than construction vehicles in general.
+
+Overall, the prediction text is relevant and maintains a similar context to the reference text, but it diverges slightly in specificity. 
+
+Rating: [[8]]

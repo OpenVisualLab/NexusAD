@@ -1,0 +1,26 @@
+config:
+  data_root: "/data2/datasets/drivelm/data/coda"
+  batch_size: 1
+
+# tasks = ['general_perception', 'region_perception', 'driving_suggestion']
+# 
+
+tasks:
+  - model_dir: ""
+    ckpt_dir: ""
+    json_path: "/data2/datasets/drivelm/similarity_rank/bert/for_ft/test_vt_gp_top_no_img.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output4/1108_gp_ori_icl_ori/icl_gp_top_no_img.jsonl"
+    gpu: 2
+  - model_dir: ""
+    ckpt_dir: ""
+    json_path: "/data2/datasets/drivelm/similarity_rank/bert/for_ft/test_vt_gp_top_1_img.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output4/1108_gp_ori_icl_ori/icl_gp_top_1_img.jsonl"
+    gpu: 3
+
+ 
+  
+
+
+
+
+

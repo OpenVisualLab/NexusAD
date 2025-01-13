@@ -1,0 +1,5 @@
+The reference text discusses the behavior and risks associated with a construction vehicle, emphasizing the need for the ego car to maintain a safe following distance due to potential hazards like sudden stops and debris. The prediction text similarly addresses a large truck carrying unsecured material, outlining various risks such as visibility issues, debris hazards, and the need for safe distance and alertness. Both texts focus on the implications of driving near large vehicles and the necessary precautions for safe driving.
+
+While the reference text is specific to construction vehicles, the prediction text expands the context to include a general large truck, which is relevant but slightly less specific. However, the core themes of safety, following distance, and potential hazards are consistent across both texts.
+
+Rating: [[8]]

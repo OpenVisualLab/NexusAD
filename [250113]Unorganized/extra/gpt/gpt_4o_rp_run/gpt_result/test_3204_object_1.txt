@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss a construction vehicle, specifically a concrete mixer truck, and emphasize the importance of maintaining a safe distance while driving near such vehicles. The predicted text elaborates on various factors that can affect driving behavior, such as space, speed, visibility, and potential hazards from loose materials, which are relevant to the concerns raised in the reference text. Overall, the predicted text effectively captures the essence of the reference text while providing additional details.
+
+Rating: [[9]]

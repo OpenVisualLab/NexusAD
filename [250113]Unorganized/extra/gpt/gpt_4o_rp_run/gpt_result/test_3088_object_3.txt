@@ -1,0 +1,3 @@
+The predicted text closely relates to the reference text by discussing the function and importance of bollards in the context of driving, particularly for an autonomous vehicle (ego car). Both texts emphasize the role of bollards in defining boundaries and preventing collisions. The predicted text expands on the topic by detailing specific impacts on ego car driving, such as obstacle detection and navigation assistance, which adds depth to the discussion. Overall, the predicted text is relevant and maintains a strong connection to the reference text's themes.
+
+Rating: [[9]]

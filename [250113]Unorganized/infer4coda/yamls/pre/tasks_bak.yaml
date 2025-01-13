@@ -1,0 +1,15 @@
+config:
+  data_root: "/data1/nemo/projects/240922_AD/datasets/images"
+  batch_size: 1
+
+tasks:
+  - ckpt_dir: "/data1/nemo/projects/240922_AD/output/internvl2-8b/v6-20240923-struct_gp/checkpoint-3050"
+    json_path: "/data1/nemo/projects/240922_AD/datasets/labels/CODA-LM/Local/vqa_anno/general_perception.jsonl"
+    out_json_path: "/data1/nemo/projects/240922_AD/output/out_jsons/240924/struct/struct_v0_ft10_local_gpaaa.jsonl"
+    gpu: 2
+  - ckpt_dir: "/data1/nemo/projects/240922_AD/output/internvl2-8b/v8-20240923-struct_ds/checkpoint-3050"
+    json_path: "/data1/nemo/projects/240922_AD/datasets/labels/CODA-LM/Local/vqa_anno/driving_suggestion.jsonl"
+    out_json_path: "/data1/nemo/projects/240922_AD/output/out_jsons/240924/struct/struct_v0_ft10_local_dsaaa.jsonl"
+    gpu: 3
+
+

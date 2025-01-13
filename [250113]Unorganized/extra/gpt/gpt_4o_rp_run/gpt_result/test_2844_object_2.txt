@@ -1,0 +1,5 @@
+The reference text discusses the importance of monitoring adjacent vehicles while driving, emphasizing the need for safe distance and readiness to adjust speed or change lanes. It focuses on the dynamics of driving alongside other moving cars. In contrast, the prediction text centers on a parked car and its implications for the ego car's navigation, highlighting issues like reduced maneuvering space, obstacle avoidance, and limited visibility. While both texts address the impact of other vehicles on the ego car's driving, the reference text is more about moving vehicles and their immediate effects, whereas the prediction text deals specifically with a stationary vehicle and its challenges. 
+
+Overall, there is some thematic overlap regarding vehicle interactions, but the contexts differ significantly. Therefore, the similarity is moderate.
+
+Rating: [[6]]

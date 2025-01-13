@@ -1,0 +1,3 @@
+The predicted text discusses a large crane truck and its implications for the ego vehicle's driving, which aligns with the reference text's focus on a large construction vehicle and the necessary precautions for safe driving around it. Both texts emphasize the size of the vehicle, the need for cautious driving, and the potential impact on traffic flow. However, the predicted text introduces the concept of visibility limitations, which is not mentioned in the reference text. Overall, the predicted text is relevant and maintains a similar theme, but it diverges slightly in specifics.
+
+Rating: [[8]]

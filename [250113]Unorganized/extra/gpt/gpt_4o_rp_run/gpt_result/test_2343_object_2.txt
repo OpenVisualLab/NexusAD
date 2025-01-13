@@ -1,0 +1,3 @@
+The predicted text discusses barriers on the road and their implications for driving, which aligns with the reference text's focus on safety barriers and their role in traffic management. Both texts emphasize the importance of barriers in relation to road conditions, construction, and the need for drivers to adjust their behavior accordingly. The predicted text expands on the concept by mentioning the impact on the ego car's maneuverability and the necessity for cautious driving, which is relevant to the context of the reference text.
+
+Rating: [[9]]

@@ -1,0 +1,3 @@
+The reference text discusses large waste containers and the need for an ego vehicle to maintain a safe distance from them to avoid obstacles. In contrast, the prediction text focuses on a small sign or board and how it affects the ego vehicle's operations, including obstacle detection, path planning, and sign recognition. While both texts address the importance of recognizing and responding to objects in the environment for safe driving, they refer to different types of objects and contexts. The relevance is somewhat limited as they do not directly relate to the same scenario or object type.
+
+Rating: [[5]]

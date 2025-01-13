@@ -1,0 +1,3 @@
+The predicted text discusses a parked vehicle and its implications for the ego car's navigation, which aligns with the reference text's focus on a large motor vehicle that may obstruct the lane. Both texts emphasize the need for the ego car to adjust its speed and navigation in response to the presence of the vehicle. However, the predicted text expands on the potential impacts on driving and path planning, which adds relevant detail but does not stray from the core topic. Overall, the predicted text is relevant and maintains a strong connection to the reference text.
+
+Rating: [[9]]

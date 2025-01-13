@@ -1,0 +1,5 @@
+The reference text discusses the presence of stones at the roadside and the necessary precautions an ego car should take to avoid collisions and maintain safety. The prediction text elaborates on a similar theme by describing a large rock or debris that poses a hazard to the ego car, detailing how it affects driving and the importance of navigation and detection systems. Both texts emphasize the need for caution and the potential risks associated with roadside obstacles.
+
+While the prediction text provides a more detailed analysis of the implications of encountering such an object, it remains relevant to the core message of the reference text. The focus on safety, avoidance, and the need for effective systems in autonomous vehicles aligns well with the original content.
+
+Rating: [[9]]

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Similarity Comparison</title>
+    <style>
+        body {
+            font-size: 14px;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .column {
+            width: 20%;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .image-container {
+            text-align: center;
+        }
+        img {
+            width: 300px;
+            height: auto;
+            margin-top: 10px;
+        }
+        .navigation {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .navigation button {
+            padding: 10px 20px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Image Similarity Comparison</h1>
+
+    <div class="navigation">
+        <form action="{{ url_for('index') }}" method="get" style="display: inline;">
+            <input type="hidden" name="query_index" value="{{ query_index - 1 }}">
+            <button type="submit" {% if query_index == 0 %}disabled{% endif %}>Previous</button>
+        </form>
+
+        <span>Showing {{ query_index + 1 }} of {{ max_index + 1 }}</span>
+
+        <form action="{{ url_for('index') }}" method="get" style="display: inline;">
+            <input type="hidden" name="query_index" value="{{ query_index + 1 }}">
+            <button type="submit" {% if query_index == max_index %}disabled{% endif %}>Next</button>
+        </form>
+    </div>
+
+    <div class="container">
+        <!-- SSIM Comparison -->
+        <div class="column">
+            <h2>MSE</h2>
+            <div class="image-container">
+                <p>Query Image Path: /data2/datasets/drivelm/data/coda/{{ query_image_ssim }}</p>
+                <img src="{{ url_for('serve_image', filename=query_image_ssim) }}" alt="Query Image SSIM">
+            </div>
+            <h3>Top 2 Similar Images (SSIM)</h3>
+            {% for image in topk_images_ssim %}
+                <div class="image-container">
+                    <p>Similarity Score: {{ image.similarity_score }}</p>
+                    <p>Image Path: /data2/datasets/drivelm/data/coda/{{ image.base }}</p>
+                    <img src="{{ url_for('serve_image', filename=image.base) }}" alt="Base Image SSIM">
+                </div>
+            {% endfor %}
+        </div>
+
+        <!-- MSE Comparison -->
+        <div class="column">
+            <h2>SSIM</h2>
+            <div class="image-container">
+                <p>Query Image Path: /data2/datasets/drivelm/data/coda/{{ query_image_mse }}</p>
+                <img src="{{ url_for('serve_image', filename=query_image_mse) }}" alt="Query Image MSE">
+            </div>
+            <h3>Top 2 Similar Images (MSE)</h3>
+            {% for image in topk_images_mse %}
+                <div class="image-container">
+                    <p>Similarity Score: {{ image.similarity_score }}</p>
+                    <p>Image Path: /data2/datasets/drivelm/data/coda/{{ image.base }}</p>
+                    <img src="{{ url_for('serve_image', filename=image.base) }}" alt="Base Image MSE">
+                </div>
+            {% endfor %}
+        </div>
+
+        <!-- Hash Comparison -->
+        <div class="column">
+            <h2>BERT</h2>
+            <div class="image-container">
+                <p>Query Image Path: /data2/datasets/drivelm/data/coda/{{ query_image_hash }}</p>
+                <img src="{{ url_for('serve_image', filename=query_image_hash) }}" alt="Query Image Hash">
+            </div>
+            <h3>Top 2 Similar Images (Hash)</h3>
+            {% for image in topk_images_hash %}
+                <div class="image-container">
+                    <p>Similarity Score: {{ image.similarity_score }}</p>
+                    <p>Image Path: /data2/datasets/drivelm/data/coda/{{ image.base }}</p>
+                    <img src="{{ url_for('serve_image', filename=image.base) }}" alt="Base Image Hash">
+                </div>
+            {% endfor %}
+        </div>
+
+        <!-- BERT Comparison -->
+        <div class="column">
+            <h2>LVLM</h2>
+            <div class="image-container">
+                <p>Query Image Path: /data2/datasets/drivelm/data/coda/{{ query_image_bert }}</p>
+                <img src="{{ url_for('serve_image', filename=query_image_bert) }}" alt="Query Image BERT">
+            </div>
+            <h3>Top 2 Similar Images (BERT)</h3>
+            {% for image in topk_images_bert %}
+                <div class="image-container">
+                    <p>Similarity Score: {{ image.similarity_score }}</p>
+                    <p>Image Path: /data2/datasets/drivelm/data/coda/{{ image.base }}</p>
+                    <img src="{{ url_for('serve_image', filename=image.base) }}" alt="Base Image BERT">
+                </div>
+            {% endfor %}
+        </div>
+
+        <!-- BERT DS Comparison -->
+        <div class="column">
+            <h2>OURS</h2>
+            <div class="image-container">
+                <p>Query Image Path: /data2/datasets/drivelm/data/coda/{{ query_image_bert_ds }}</p>
+                <img src="{{ url_for('serve_image', filename=query_image_bert_ds) }}" alt="Query Image BERT DS">
+            </div>
+            <h3>Top 2 Similar Images (BERT DS)</h3>
+            {% for image in topk_images_bert_ds %}
+                <div class="image-container">
+                    <p>Similarity Score: {{ image.similarity_score }}</p>
+                    <p>Image Path: /data2/datasets/drivelm/data/coda/{{ image.base }}</p>
+                    <img src="{{ url_for('serve_image', filename=image.base) }}" alt="Base Image BERT DS">
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

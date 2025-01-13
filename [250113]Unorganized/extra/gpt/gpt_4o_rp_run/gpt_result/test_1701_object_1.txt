@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the role of traffic cones in signaling to autonomous vehicles about lane restrictions and the need for navigation adjustments. The predicted text expands on the implications of the traffic cone's presence, detailing specific scenarios that an autonomous vehicle might encounter, which adds depth to the discussion without deviating from the main topic. Overall, the predicted text is relevant and maintains a high degree of similarity to the reference text.
+
+Rating: [[9]]

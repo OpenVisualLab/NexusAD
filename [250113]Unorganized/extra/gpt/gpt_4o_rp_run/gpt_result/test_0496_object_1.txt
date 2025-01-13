@@ -1,0 +1,3 @@
+The reference text discusses signage on buildings used for identification or advertising, emphasizing its role as a point of reference without directly affecting driving behavior. In contrast, the prediction text focuses on a large spool or reel, detailing how it could impact an autonomous vehicle's driving through obstacle detection, path planning, and sensor calibration. While both texts relate to objects that could be encountered by a vehicle, the reference text is about signage, which is not a physical obstacle, whereas the prediction text is about a potential obstacle that could affect driving. Therefore, the two texts are not closely related in terms of content and context.
+
+Rating: [[3]]

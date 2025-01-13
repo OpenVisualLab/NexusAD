@@ -1,0 +1,3 @@
+The predicted text discusses the implications of encountering heavy construction machinery, specifically an excavator, on the driving behavior of an ego car. It addresses various aspects such as obstacle avoidance, lane guidance, traffic interaction, road visibility, and safety precautions, which are all relevant to the context of the reference text. The reference text emphasizes the need for caution when dealing with heavy-duty vehicles and the importance of maintaining a safe following distance, which aligns with the predicted text's focus on the ego car's response to the construction vehicle's presence. Both texts highlight the need for careful navigation and awareness of potential hazards associated with large construction machinery.
+
+Rating: [[9]]

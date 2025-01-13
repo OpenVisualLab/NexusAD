@@ -1,0 +1,5 @@
+The reference text discusses a moped parked on the sidewalk and emphasizes the need for caution due to potential movement from parked vehicles and pedestrians. The prediction text, while mentioning bicycles and a person, similarly highlights the importance of detecting movements that could pose hazards to the ego car. Both texts focus on the implications of nearby vehicles (mopeds in the reference and bicycles in the prediction) for the ego car's driving behavior, emphasizing safety and the need for caution. However, the prediction text diverges slightly by introducing a person and bicycles instead of focusing solely on the moped.
+
+Overall, the two texts are relevant to the topic of autonomous driving and the need for caution around parked vehicles, but they differ in specifics. The prediction text maintains a similar theme but shifts the focus slightly.
+
+Rating: [[7]]

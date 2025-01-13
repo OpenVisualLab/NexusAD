@@ -1,0 +1,42 @@
+<html>
+<head>
+    <title>JSONL Data Visualization</title>
+</head>
+<body>
+    <h1>JSONL Data Visualization</h1>
+    <form action="/select" method="post">
+        <label for="scene_id">Select Scene:</label>
+        <select name="scene_id" id="scene_id">
+            {% for scene in scenes %}
+                <option value="{{ scene }}">{{ scene }}</option>
+            {% endfor %}
+        </select>
+        <label for="keyframe_id">Select Keyframe:</label>
+        <select name="keyframe_id" id="keyframe_id">
+            {% for keyframe in keyframes %}
+                <option value="{{ keyframe }}">{{ keyframe }}</option>
+            {% endfor %}
+        </select>
+        <label for="question_index">Select Question:</label>
+        <select name="question_index" id="question_index">
+            {% for question in questions %}
+                <option value="{{ question }}">{{ question }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">View Item</button>
+    </form>
+    <hr>
+    {% if item %}
+    <h2>Item Details</h2>
+    <strong>ID:</strong> {{ item['id'] }}<br>
+    <strong>Query:</strong> {{ item['query'] }}<br>
+    <strong>Response:</strong> {{ item['response'] }}<br>
+    {% if image_path %}
+    <div class="image-container">
+        <img src="{{ image_path }}" alt="Image" style="max-width: 90%;"><br><br>
+    </div>
+    {% endif %}
+    <a href="/previous/{{ item['id'] }}">Previous</a> | <a href="/next/{{ item['id'] }}">Next</a><br><br>
+    {% endif %}
+</body>
+</html>

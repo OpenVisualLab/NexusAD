@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the function of traffic cones in road situations, emphasizing their role in signaling changes in traffic patterns and the need for drivers to adjust their behavior accordingly. The predicted text effectively captures the essence of the reference text while providing additional context about the ego car's response to the traffic cone. Overall, the similarity in themes and details is high.
+
+Rating: [[9]]

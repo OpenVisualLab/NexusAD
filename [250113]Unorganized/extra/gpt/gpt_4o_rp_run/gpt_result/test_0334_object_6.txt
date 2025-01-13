@@ -1,0 +1,3 @@
+The reference text discusses the behavior of an ego car in relation to a dynamic obstacle (another car) and emphasizes maintaining a safe following distance and readiness to adjust speed or change lanes. The prediction text, however, shifts focus to a construction worker as an obstacle, detailing how this affects the ego car's driving. While both texts address the need for the ego car to adapt to obstacles, the specific scenarios and types of obstacles differ significantly. The prediction text provides a broader context of roadwork and its implications, which is relevant but not directly aligned with the reference text's focus on another vehicle.
+
+Rating: [[6]]

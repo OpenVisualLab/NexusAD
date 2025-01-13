@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the role of traffic cones in signaling roadwork and the necessary precautions that drivers should take when encountering them. The predicted text elaborates on the implications of the traffic cones for the ego car's driving behavior, which is relevant and adds depth to the discussion. Overall, the predicted text maintains the core message of the reference text while providing additional details.
+
+Rating: [[9]]

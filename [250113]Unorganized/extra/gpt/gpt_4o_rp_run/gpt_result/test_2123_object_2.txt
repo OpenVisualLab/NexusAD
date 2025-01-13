@@ -1,0 +1,3 @@
+The predicted text discusses the implications of a large vehicle, such as a truck or tanker, on the driving behavior of an ego car, which aligns with the reference text's focus on a heavy-duty vehicle in a construction context. Both texts emphasize the need for heightened awareness and caution when navigating around large vehicles, highlighting factors like visibility, size, speed, and maneuverability. However, the predicted text is more detailed in its analysis of specific driving behaviors and safety considerations, while the reference text is more general about the presence of construction vehicles. Overall, the predicted text is relevant and maintains a strong connection to the themes presented in the reference text.
+
+Rating: [[8]]

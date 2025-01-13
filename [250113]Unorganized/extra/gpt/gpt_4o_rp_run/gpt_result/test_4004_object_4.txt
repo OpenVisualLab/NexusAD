@@ -1,0 +1,3 @@
+The reference text discusses bollards, their purpose in traffic control, and their role in guiding autonomous vehicles. The predicted text, however, focuses on traffic cones, their use in indicating hazards, and their impact on vehicle navigation. While both texts relate to traffic control and the interaction of autonomous vehicles with road objects, they discuss different types of objects and their specific functions. Therefore, the similarity in topic is present, but the relevance is limited due to the focus on different objects.
+
+Rating: [[5]]

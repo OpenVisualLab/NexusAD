@@ -1,0 +1,3 @@
+The reference text discusses trams and their impact on the decisions of a car driver, particularly in relation to signals and right-of-way rules. The prediction text, however, focuses on buses and their influence on autonomous driving, covering aspects like obstacle detection, traffic flow, lane usage, and decision-making. While both texts address the interaction between vehicles (trams and buses) and the ego car, they do so in different contexts and with different vehicles. The core themes of traffic interaction and safety are present in both, but the specific focus on trams versus buses creates a significant divergence in content.
+
+Rating: [[5]]

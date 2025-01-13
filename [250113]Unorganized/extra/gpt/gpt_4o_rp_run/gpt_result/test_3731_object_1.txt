@@ -1,0 +1,5 @@
+The reference text discusses the presence of a vehicle with distinct markings at construction sites and the implications for an ego car's driving behavior in response to potential obstructions and changes in traffic patterns. The prediction text describes a specific scenario involving a white truck obstructing the road and the necessary actions the ego car must take to navigate safely. Both texts focus on the impact of vehicles on driving behavior, particularly in the context of obstructions and safety considerations. 
+
+While the reference text is more general about construction vehicles, the prediction text provides a specific example of a truck and its implications for driving. The two texts are relevant to each other, as they both address the need for vigilance and adaptive driving in the presence of obstacles.
+
+Rating: [[8]]

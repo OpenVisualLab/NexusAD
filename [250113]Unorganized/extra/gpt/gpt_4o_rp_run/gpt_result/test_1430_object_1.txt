@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the function and importance of traffic cones in directing traffic and ensuring safety, particularly in relation to autonomous vehicles. The predicted text elaborates on the role of traffic cones in the context of ego cars, emphasizing the need for detection and response, which is relevant to the reference text's focus on safe navigation around cones. Overall, the similarity in themes and the specific mention of autonomous driving systems indicate a high level of relevance.
+
+Rating: [[9]]

@@ -1,0 +1,3 @@
+The predicted text discusses a basket's presence on the road and its implications for the ego vehicle's driving, which aligns with the reference text's focus on baskets and their potential impact on driving behavior. Both texts emphasize the need for caution and the role of the vehicle's sensors in responding to objects that could affect safety. The predicted text expands on the idea of obstruction and the need for adjustments, which is relevant to the reference text's context. Overall, the predicted text maintains a strong connection to the themes presented in the reference text.
+
+Rating: [[9]]

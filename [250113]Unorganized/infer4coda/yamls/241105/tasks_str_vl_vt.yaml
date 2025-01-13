@@ -1,0 +1,34 @@
+config:
+  data_root: "/data2/datasets/drivelm/data/coda"
+  batch_size: 1
+
+# tasks = ['general_perception', 'region_perception', 'driving_suggestion']
+# 
+
+tasks:
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output2/internvl2-8b/v3-20241024-023750_structure_gp/checkpoint-2316"
+    json_path: "/data2/datasets/drivelm/data/qas/new/new_train_general_perception.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241105_train_val/str_train_gp_run.jsonl"
+    gpu: 0
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output2/internvl2-8b/v3-20241024-023750_structure_gp/checkpoint-2316"
+    json_path: "/data2/datasets/drivelm/data/qas/new/new_val_general_perception.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241105_train_val/str_val_gp_run.jsonl"
+    gpu: 1
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output2/internvl2-8b/v5-20241024-024519_structure_ds/checkpoint-2316"
+    json_path: "/data2/datasets/drivelm/data/qas/new/new_train_driving_suggestion.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241105_train_val/str_train_ds_run.jsonl"
+    gpu: 0
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output2/internvl2-8b/v5-20241024-024519_structure_ds/checkpoint-2316"
+    json_path: "/data2/datasets/drivelm/data/qas/new/new_val_driving_suggestion.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241105_train_val/str_val_ds_run.jsonl"
+    gpu: 1
+  
+
+
+
+
+

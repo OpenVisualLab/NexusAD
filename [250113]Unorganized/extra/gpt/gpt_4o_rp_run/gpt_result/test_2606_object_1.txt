@@ -1,0 +1,5 @@
+The reference text discusses the importance of monitoring pedestrian movements near a barrier to ensure their safety while driving. In contrast, the prediction text focuses on how a construction barrier affects the operation of a self-driving vehicle, including lane restrictions, routing decisions, and obstacle detection. While both texts mention barriers, the reference text emphasizes pedestrian safety, whereas the prediction text is centered on the implications for autonomous vehicle navigation and operation. 
+
+The two texts are related in the context of driving and barriers, but they address different aspects of the situation—one from a pedestrian safety perspective and the other from an autonomous vehicle's operational perspective. Therefore, while there is some thematic overlap, the focus and details differ significantly.
+
+Rating: [[5]]

@@ -1,0 +1,3 @@
+The reference text discusses the presence of garbage on the road and the need for an ego car to monitor and avoid such obstacles. In contrast, the prediction text focuses on speed bumps, their purpose, and the importance of detecting them for the safety and comfort of passengers. While both texts address the need for an ego car to recognize and respond to obstacles on the road, they discuss different types of obstacles (garbage vs. speed bumps) and their implications for driving behavior. Therefore, the relevance and similarity between the two texts are limited.
+
+Rating: [[4]]

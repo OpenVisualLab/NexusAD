@@ -1,0 +1,5 @@
+The reference text discusses the behavior of an ego car in relation to a large, heavy-duty vehicle, emphasizing the need for safe following distances and the potential hazards posed by such vehicles. In contrast, the prediction text focuses on the presence of a pedestrian in the road and how the ego car should respond to that situation. While both texts address the ego car's driving behavior and safety considerations, they focus on different types of obstacles (a large vehicle vs. a pedestrian) and the specific actions required in each scenario. 
+
+The relevance is somewhat limited as the contexts differ significantly, even though both texts share a common theme of ensuring safety and appropriate driving responses. Therefore, while there is some thematic overlap regarding the ego car's behavior, the specific subjects and scenarios are distinct enough to warrant a lower similarity rating.
+
+Rating: [[4]]

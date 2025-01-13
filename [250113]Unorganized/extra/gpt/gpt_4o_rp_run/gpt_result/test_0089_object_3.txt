@@ -1,0 +1,3 @@
+The reference text discusses the role of traffic lights in controlling vehicle behavior at intersections, emphasizing the need for the ego car to respond to these signals. In contrast, the prediction text focuses on the implications of a physical obstruction (a traffic cone or barrier) on the ego car's driving behavior. While both texts relate to the operation of an ego car in traffic, they address different aspects: one is about traffic signals and the other about physical obstacles. The connection between the two is weak, as they do not directly reference each other’s content or themes.
+
+Rating: [[4]]

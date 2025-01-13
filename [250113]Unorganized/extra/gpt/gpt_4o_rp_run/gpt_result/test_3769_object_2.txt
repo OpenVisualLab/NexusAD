@@ -1,0 +1,3 @@
+The predicted text closely mirrors the content and intent of the reference text. Both texts discuss the purpose of traffic cones in signaling hazards and the necessary adjustments that an ego car should make in response to their presence. The predicted text elaborates on the implications for the car's navigation system, which adds a layer of detail but remains relevant to the original topic. Overall, the similarity in themes and the focus on driving behavior in relation to traffic cones indicates a high degree of relevance.
+
+Rating: [[9]]

@@ -1,0 +1,3 @@
+The predicted text discusses a traffic light with a green signal, which aligns with the reference text's focus on a vertical signal device that allows vehicles to proceed. Both texts emphasize the importance of the traffic light for the ego car's driving behavior and decision-making at intersections. The predicted text expands on the implications of the traffic light for navigation and road safety, which is relevant but slightly broader than the reference text. Overall, the core concepts are closely related, making the predicted text relevant to the reference.
+
+Rating: [[8]]

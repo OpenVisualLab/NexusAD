@@ -1,0 +1,3 @@
+The predicted text discusses a parked scooter or motorcycle and its implications for the ego car's driving, which aligns with the reference text's focus on a moped parked at the side of the road. Both texts emphasize the need for the ego car to maintain a safe distance and be prepared for potential movements from the parked vehicle. The predicted text expands on the situation by detailing specific considerations such as obstacle avoidance, lane narrowing, and visibility, which are relevant to the scenario presented in the reference text. Overall, the predicted text is relevant and maintains a strong connection to the themes of awareness and safety in the context of autonomous driving.
+
+Rating: [[9]]

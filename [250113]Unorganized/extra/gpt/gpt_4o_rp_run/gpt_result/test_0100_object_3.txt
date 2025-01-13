@@ -1,0 +1,3 @@
+The predicted text effectively summarizes and expands upon the information presented in the reference text. Both texts discuss the purpose and visibility of traffic cones, their role in traffic control, and the implications for an ego car's driving behavior. The predicted text also emphasizes the importance of the ego car's sensors and software in responding to traffic cones, which adds relevant detail. Overall, the predicted text maintains a strong connection to the reference text while providing additional context.
+
+Rating: [[9]]

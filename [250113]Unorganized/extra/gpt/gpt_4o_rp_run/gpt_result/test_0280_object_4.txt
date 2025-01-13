@@ -1,0 +1,3 @@
+The reference text discusses bollards, their purpose in traffic management, and how they affect the behavior of an ego car. The prediction text, however, focuses on traffic cones, detailing their role in guiding traffic and how an ego car interacts with them. While both texts address objects that influence driving behavior, they discuss different types of objects (bollards vs. traffic cones) and their specific implications for autonomous vehicles. Therefore, the relevance and similarity between the two texts are limited, as they do not cover the same subject matter.
+
+Rating: [[4]]

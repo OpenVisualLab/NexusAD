@@ -1,0 +1,5 @@
+The reference text discusses a bus and its impact on traffic and the ego car's driving behavior, emphasizing the need for the driver to anticipate stops and potential obstructions. In contrast, the prediction text focuses on a concrete mixer truck, detailing how its size and operation can affect the ego car's driving, including visibility issues, maneuverability, and the need for safe following distances. 
+
+While both texts address the influence of large vehicles on driving, they focus on different types of vehicles and their specific challenges. The themes of obstruction and traffic flow are present in both, but the details and contexts differ significantly. Therefore, the similarity in relevance is moderate but not high.
+
+Rating: [[5]]

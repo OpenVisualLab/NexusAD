@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the implications of a heavy construction vehicle, specifically a crane, on the driving behavior of the ego car. They emphasize the need for maintaining a safe following distance, being alert to potential hazards, and adjusting to changes in traffic conditions due to the presence of such vehicles. The predicted text expands on the topic by detailing specific factors like visibility, road space, speed, and safety, which are relevant to the driving context described in the reference text. Overall, the predicted text is relevant and maintains a high degree of similarity to the reference text.
+
+Rating: [[9]]

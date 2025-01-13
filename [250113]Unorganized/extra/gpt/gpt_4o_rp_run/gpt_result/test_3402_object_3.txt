@@ -1,0 +1,5 @@
+The reference text discusses bollards, which are vertical posts used to control road traffic and protect pedestrians, while the prediction text focuses on traffic cones, which serve a similar purpose in guiding and controlling traffic. Both texts emphasize the importance of these objects in the context of autonomous driving, highlighting the need for the ego car to recognize and respond to them to ensure safety and compliance with road rules. However, the specific objects and their functions differ, with bollards being more about preventing vehicle access and traffic cones about directing traffic flow.
+
+Overall, while there is a thematic connection regarding traffic control and the role of these objects in autonomous driving, the specific focus on different types of traffic control devices leads to a moderate level of similarity.
+
+Rating: [[6]]

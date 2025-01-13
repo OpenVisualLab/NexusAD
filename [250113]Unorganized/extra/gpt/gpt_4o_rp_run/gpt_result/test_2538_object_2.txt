@@ -1,0 +1,5 @@
+The reference text discusses the presence of a pedestrian in a construction area and emphasizes the need for the ego car to be cautious and prepared to stop. The prediction text also addresses the detection and response to pedestrians by the ego car, highlighting the importance of safety for all road users. Both texts focus on the interaction between pedestrians and autonomous vehicles, particularly in terms of safety and the need for appropriate responses. 
+
+While the prediction text expands on the concept of dynamic obstacles and includes additional details about potential actions the ego car might take, it remains relevant to the core message of the reference text. 
+
+Rating: [[9]]

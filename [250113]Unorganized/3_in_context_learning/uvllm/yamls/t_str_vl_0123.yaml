@@ -1,0 +1,44 @@
+config:
+  data_root: "/data2/datasets/drivelm/data/coda"
+  batch_size: 1
+
+# tasks = ['general_perception', 'region_perception', 'driving_suggestion']
+# 
+
+tasks:
+  - model_dir: "/data2/datasets/drivelm/output2/internvl2-8b/v5-20241024-024519_structure_ds/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/241110_rank_for_infer2/test_vt_ds_v1_0.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241112_str/test_str_ds_v1_0.jsonl"
+    gpu: 0
+  - model_dir: "/data2/datasets/drivelm/output2/internvl2-8b/v5-20241024-024519_structure_ds/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/241110_rank_for_infer2/test_vt_ds_v1_1.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241112_str/test_str_ds_v1_1.jsonl"
+    gpu: 1
+  - model_dir: "/data2/datasets/drivelm/output2/internvl2-8b/v5-20241024-024519_structure_ds/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/241110_rank_for_infer2/test_vt_ds_v1_2.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241112_str/test_str_ds_v1_2.jsonl"
+    gpu: 0
+  - model_dir: "/data2/datasets/drivelm/output2/internvl2-8b/v5-20241024-024519_structure_ds/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/241110_rank_for_infer2/test_vt_ds_v1_3.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241112_str/test_str_ds_v1_3.jsonl"
+    gpu: 1
+  #  gp ds
+  - model_dir: "/data2/datasets/drivelm/output2/internvl2-8b/v3-20241024-023750_structure_gp/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/241110_rank_for_infer2/test_vt_gp_v1_0.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241112_str/test_str_gp_v1_0.jsonl"
+    gpu: 0
+  - model_dir: "/data2/datasets/drivelm/output2/internvl2-8b/v3-20241024-023750_structure_gp/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/241110_rank_for_infer2/test_vt_gp_v1_1.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241112_str/test_str_gp_v1_1.jsonl"
+    gpu: 1
+  - model_dir: "/data2/datasets/drivelm/output2/internvl2-8b/v3-20241024-023750_structure_gp/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/241110_rank_for_infer2/test_vt_gp_v1_2.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241112_str/test_str_gp_v1_2.jsonl"
+    gpu: 0
+  - model_dir: "/data2/datasets/drivelm/output2/internvl2-8b/v3-20241024-023750_structure_gp/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/241110_rank_for_infer2/test_vt_gp_v1_3.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241112_str/test_str_gp_v1_3.jsonl"
+    gpu: 1
+
+
+

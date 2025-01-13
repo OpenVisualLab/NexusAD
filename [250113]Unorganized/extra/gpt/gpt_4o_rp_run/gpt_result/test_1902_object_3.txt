@@ -1,0 +1,3 @@
+The reference text discusses the presence of a two-wheeled vehicle, emphasizing the need for the ego car to exercise caution and adjust its driving behavior accordingly. The prediction text describes a bicycle parked on the side of the road and highlights the potential hazards it poses, including obstruction and the risk of unexpected movement. Both texts focus on the interaction between the ego car and a two-wheeled vehicle, stressing the importance of safety and distance. The prediction text expands on the scenario by detailing specific risks associated with a parked bicycle, which aligns well with the cautionary theme of the reference text.
+
+Rating: [[9]]

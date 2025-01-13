@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the role of traffic cones in road safety, particularly in relation to construction zones and the need for drivers (or self-driving cars) to adjust their behavior accordingly. The predicted text expands on the implications for an autonomous vehicle, detailing specific driving decisions that must be made in response to the presence of a traffic cone. This additional information enhances the relevance and depth of the discussion without deviating from the core topic presented in the reference text.
+
+Rating: [[9]]

@@ -1,0 +1,5 @@
+The reference text discusses the presence of debris on the road, which could be related to construction and poses a hazard for drivers. It emphasizes the need for vigilance and potential lane changes to avoid the debris. The prediction text, on the other hand, focuses specifically on a traffic cone, which is also associated with construction zones and roadwork. It outlines how an autonomous vehicle should respond to the presence of a traffic cone, including slowing down, changing lanes, and increasing awareness of potential hazards.
+
+Both texts address the theme of road hazards related to construction, but the prediction text narrows down to a specific object (the traffic cone) and its implications for autonomous driving. While they are related in context, the prediction text does not directly reference the debris mentioned in the reference text, making it less relevant overall.
+
+Rating: [[6]]

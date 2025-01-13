@@ -1,0 +1,7 @@
+The predicted text discusses a large construction vehicle, specifically a mobile crane, and elaborates on its characteristics and the implications for an ego vehicle's driving behavior. It covers similar themes as the reference text, such as the size and speed of the vehicle, the need for safe distance, and the potential hazards associated with driving near such vehicles. Both texts emphasize the importance of caution and awareness when navigating around large vehicles. 
+
+However, the predicted text provides more detailed points regarding visibility, road space, maneuverability, unpredictable movements, and potential hazards, which adds depth to the discussion. While the reference text is more focused on a flatbed trailer truck, the predicted text's broader focus on construction vehicles still aligns well with the core message of safe driving practices around large vehicles.
+
+Overall, the predicted text is relevant and maintains a high degree of similarity to the reference text in terms of themes and driving safety considerations.
+
+Rating: [[9]]

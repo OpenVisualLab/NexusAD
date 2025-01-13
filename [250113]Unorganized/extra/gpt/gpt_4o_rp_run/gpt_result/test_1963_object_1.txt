@@ -1,0 +1,3 @@
+The predicted text discusses a large piece of construction equipment and its implications for an ego vehicle, which aligns with the reference text's focus on a construction vehicle and its impact on road safety. Both texts emphasize the need for the ego vehicle to adjust its driving behavior in response to the presence of the construction vehicle, highlighting issues such as reduced visibility and potential traffic disruptions. The predicted text expands on the consequences of encountering such an obstacle, providing additional details that are relevant to the context established in the reference text.
+
+Rating: [[9]]

@@ -1,0 +1,3 @@
+The predicted text discusses the implications of a parked car on the ego vehicle's driving, similar to the reference text. Both texts emphasize the need for the ego vehicle to be aware of the parked car and adjust its behavior accordingly to ensure safety. The predicted text expands on the potential effects of the parked car, such as obstruction, visibility issues, space constraints, and the need for predictability regarding the parked car's movement. While the reference text focuses more on the need for vigilance and adjustment, the predicted text provides a broader analysis of the situation. Overall, both texts are relevant and convey similar themes regarding the interaction between the ego vehicle and the parked car.
+
+Rating: [[9]]

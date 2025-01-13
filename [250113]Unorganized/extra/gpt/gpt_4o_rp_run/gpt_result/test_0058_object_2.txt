@@ -1,0 +1,3 @@
+The predicted text closely relates to the reference text by discussing the implications of construction debris on the driving behavior of an ego vehicle. Both texts emphasize the need for caution due to the presence of construction materials and the potential hazards they pose. The predicted text expands on the reference text by detailing specific challenges the ego vehicle may face, such as obstacle avoidance and lane obstruction, which are relevant to the context of construction work mentioned in the reference. Overall, the predicted text maintains a strong focus on the same theme and provides additional insights into the operational challenges for autonomous driving in such environments.
+
+Rating: [[9]]

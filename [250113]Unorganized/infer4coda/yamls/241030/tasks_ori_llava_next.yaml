@@ -1,0 +1,26 @@
+config:
+  data_root: "/data2/datasets/drivelm/data/coda"
+  batch_size: 1
+
+# tasks = ['general_perception', 'region_perception', 'driving_suggestion']
+# 
+
+tasks:
+  - model_dir: "/data1/nemo/projects/pre_weights/LLaVa-NeXT-7B"
+    ckpt_dir: ""
+    json_path: "/data2/datasets/drivelm/data/qas/original/original_test_general_perception.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output2/nexusad/241030_next/ori_test_gp_next.jsonl"
+    gpu: 1
+  - model_dir: "/data1/nemo/projects/pre_weights/LLaVa-NeXT-7B"
+    ckpt_dir: ""
+    json_path: "/data2/datasets/drivelm/data/qas/original/original_test_driving_suggestion.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output2/nexusad/241030_next/ori_test_ds_next.jsonl"
+    gpu: 2
+  - model_dir: "/data1/nemo/projects/pre_weights/LLaVa-NeXT-7B"
+    ckpt_dir: ""
+    json_path: "/data2/datasets/drivelm/data/qas/original/original_test_region_perception.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output2/nexusad/241030_next/ori_test_rp_next.jsonl"
+    gpu: 2
+
+
+

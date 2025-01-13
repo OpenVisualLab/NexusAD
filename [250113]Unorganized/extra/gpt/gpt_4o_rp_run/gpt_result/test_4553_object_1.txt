@@ -1,0 +1,3 @@
+The predicted text discusses traffic cones and their role in guiding traffic, which aligns with the reference text's description of traffic cones as temporary traffic control devices. Both texts emphasize the importance of traffic cones in indicating changes in road conditions and ensuring safety. The predicted text expands on the concept by relating it to autonomous driving, which adds relevant context but remains closely tied to the original topic. Overall, the predicted text is relevant and similar in content to the reference text.
+
+Rating: [[9]]

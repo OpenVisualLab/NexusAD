@@ -1,0 +1,7 @@
+The reference text discusses the implications of sharing the road with a bus, focusing on traffic flow, safety, and the need for the ego car to maintain a safe distance and be prepared for the bus's stops. In contrast, the prediction text addresses a parked car and its impact on the ego car's driving, including obstacle detection, lane management, visibility issues, and navigation considerations. 
+
+While both texts deal with driving scenarios and the behavior of the ego car in relation to other vehicles, they focus on different types of vehicles (bus vs. parked car) and their respective impacts on driving. The themes of safety and awareness are present in both, but the specific contexts and details differ significantly.
+
+Overall, the relevance and similarity between the two texts are low due to their focus on different driving situations and types of vehicles.
+
+Rating: [[3]]

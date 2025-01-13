@@ -1,0 +1,5 @@
+The reference text discusses the presence of a construction vehicle and its implications for driving safety, emphasizing the need for caution and awareness of potential hazards. The prediction text focuses specifically on a forklift, detailing how its operation can affect the driving of the ego car. Both texts highlight the importance of maintaining a safe distance and being prepared for unexpected movements, which aligns with the overall theme of driving safety in the presence of industrial vehicles. 
+
+While the reference text is broader, discussing construction vehicles in general, the prediction text provides specific details about forklifts, which are a type of construction vehicle. The core message about safety and caution in driving scenarios remains consistent across both texts.
+
+Rating: [[8]]

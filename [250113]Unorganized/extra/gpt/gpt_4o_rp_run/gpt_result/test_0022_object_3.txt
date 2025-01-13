@@ -1,0 +1,3 @@
+The predicted text discusses the impact of a bus on the driving behavior of an ego car, similar to the reference text. Both texts highlight the bus's size and its potential to block the road or influence traffic flow. However, the predicted text introduces additional elements such as traffic signals and road personnel, which are not mentioned in the reference text. Overall, the core concepts of how a bus affects driving behavior are present in both texts, making them relevant to each other.
+
+Rating: [[8]]

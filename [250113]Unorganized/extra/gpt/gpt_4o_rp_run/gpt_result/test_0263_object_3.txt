@@ -1,0 +1,5 @@
+The reference text discusses a stationary moped and the considerations an ego car must take into account regarding potential pedestrian movement and the possibility of the moped being used again. In contrast, the prediction text focuses on a dynamic scenario involving a man riding a scooter, emphasizing the need for the ego car to navigate around a moving obstacle and adjust its driving behavior accordingly. 
+
+While both texts address the interaction between vehicles and other road users, the reference text is about a stationary object, while the prediction text deals with a moving one. The contexts are different, and the specific details and implications of the scenarios diverge significantly. Therefore, the relevance and similarity between the two texts are low.
+
+Rating: [[3]]

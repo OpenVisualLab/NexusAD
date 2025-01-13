@@ -1,0 +1,5 @@
+The reference text discusses the presence of a heavy construction vehicle at a construction site and its implications for the ego car's driving behavior, emphasizing the need for speed adjustments and adherence to traffic control. The prediction text also addresses a construction vehicle's impact on the ego car, detailing specific reasons such as obstruction, safety concerns, and space constraints that could affect driving maneuvers. Both texts focus on the interaction between the ego car and construction vehicles, highlighting the need for caution and adjustments in driving behavior.
+
+Overall, the predicted text is relevant and similar to the reference text, as it expands on the implications of encountering a construction vehicle while maintaining the core theme of safe driving practices in such scenarios.
+
+Rating: [[9]]

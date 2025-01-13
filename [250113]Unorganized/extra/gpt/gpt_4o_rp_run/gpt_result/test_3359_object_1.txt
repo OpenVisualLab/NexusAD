@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the implications of a large crane vehicle on driving behavior, emphasizing the need for caution, safe distance, and awareness of the vehicle's size and maneuverability. The predicted text expands on these points by detailing specific reasons why the crane affects driving, such as visibility obstruction and increased stopping distance, which adds depth to the discussion without deviating from the main theme. Overall, the predicted text is relevant and maintains a high degree of similarity to the reference text.
+
+Rating: [[9]]

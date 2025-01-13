@@ -1,0 +1,5 @@
+The reference text discusses a construction vehicle and emphasizes the need for caution when an ego car approaches a construction site, highlighting potential obstructions and the presence of workers. The prediction text focuses specifically on forklifts, detailing their role as obstacles in the context of autonomous driving. Both texts address the interaction between autonomous vehicles and construction-related machinery, emphasizing safety and navigation challenges. However, the prediction text is more specific to forklifts and does not directly reference the broader context of construction sites or the general caution required around heavy machinery.
+
+While both texts are relevant to the topic of autonomous driving in construction environments, the prediction text is narrower in scope and does not fully encompass the broader implications discussed in the reference text. Therefore, while there is a connection, the similarity is moderate.
+
+Rating: [[6]]

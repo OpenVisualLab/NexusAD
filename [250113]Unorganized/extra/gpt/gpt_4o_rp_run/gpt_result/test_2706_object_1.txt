@@ -1,0 +1,3 @@
+The predicted text provides a detailed analysis of how a construction vehicle impacts the driving of an autonomous vehicle, aligning well with the themes presented in the reference text. Both texts emphasize the need for caution around construction vehicles, the potential for road obstructions, and the unpredictability of construction activities. The prediction expands on these points by outlining specific considerations for the ego vehicle, such as debris and traffic flow, which are relevant to the context of autonomous driving. Overall, the predicted text is highly relevant and closely related to the reference text.
+
+Rating: [[9]]

@@ -1,0 +1,5 @@
+The reference text discusses the presence of a large construction vehicle in the same lane as the ego car, emphasizing the need for caution, safe following distance, and readiness to adjust speed or change lanes due to the vehicle's unpredictable movements. The prediction text, while focusing on construction equipment being transported, highlights similar concerns regarding hazards, visibility issues, and the need for caution when navigating around such objects. Both texts address the importance of safety and awareness in the presence of large vehicles, although the prediction text expands on the potential hazards posed by transported machinery.
+
+Overall, the prediction text is relevant and maintains a similar theme to the reference text, discussing safety measures and the implications of large vehicles on driving behavior.
+
+Rating: [[8]]

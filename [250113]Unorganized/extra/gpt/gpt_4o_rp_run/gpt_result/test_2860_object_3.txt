@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the function of traffic cones in guiding vehicles around obstacles and altering traffic patterns, particularly in relation to autonomous driving. The predicted text expands on the role of traffic cones by mentioning the ego car's sensors and algorithms, which adds depth to the discussion without deviating from the main topic. Overall, the predicted text is relevant and maintains a strong similarity to the reference text.
+
+Rating: [[9]]

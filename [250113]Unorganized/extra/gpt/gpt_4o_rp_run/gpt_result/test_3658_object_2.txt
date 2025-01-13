@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss a construction vehicle parked on the side of the road and emphasize the need for caution from the ego vehicle's driver. The predicted text elaborates on specific ways the construction vehicle can impact driving, such as space restriction, visibility issues, and the potential for unexpected movement, which are relevant extensions of the reference text's warnings. Overall, the predicted text maintains the same focus on safety and situational awareness while providing additional details.
+
+Rating: [[9]]

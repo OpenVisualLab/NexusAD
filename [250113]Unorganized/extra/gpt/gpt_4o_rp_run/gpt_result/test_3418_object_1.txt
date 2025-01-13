@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the function of a traffic cone in directing traffic and ensuring safety around hazards or construction sites. The predicted text expands on the implications of the traffic cone for an autonomous driving context, detailing specific scenarios where the presence of a cone would affect the vehicle's behavior. This additional information enhances the relevance of the predicted text while maintaining the core message of the reference text.
+
+Rating: [[9]]

@@ -1,0 +1,3 @@
+The predicted text closely relates to the reference text by discussing the same traffic sign and its implications for driving behavior. Both texts describe the 'no U-turn' sign and its prohibition on making U-turns. The predicted text expands on the topic by mentioning the impact on the ego car's navigation system and the importance of compliance with traffic regulations, which adds relevant context but does not stray from the main subject. Overall, the predicted text is highly relevant and similar in content to the reference text.
+
+Rating: [[9]]

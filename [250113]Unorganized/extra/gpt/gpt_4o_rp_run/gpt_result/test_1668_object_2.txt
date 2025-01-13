@@ -1,0 +1,5 @@
+The predicted text discusses traffic cones and their implications for an autonomous vehicle, which aligns with the reference text's focus on traffic cones and their role in directing traffic. Both texts emphasize the importance of traffic cones in managing road conditions and the need for drivers (or autonomous vehicles) to adjust their behavior accordingly. The predicted text expands on the topic by detailing specific actions an autonomous vehicle should take in response to the presence of a traffic cone, which adds relevant context and depth to the discussion.
+
+Overall, the predicted text is highly relevant and similar to the reference text, as it maintains the core subject matter while providing additional insights into the implications for autonomous driving.
+
+Rating: [[9]]

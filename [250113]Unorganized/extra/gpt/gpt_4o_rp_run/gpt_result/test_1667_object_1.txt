@@ -1,0 +1,7 @@
+The reference text describes a cement mixing truck and its implications for driving behavior, emphasizing the need for caution and adjustments in speed and lane choice due to the vehicle's size and construction-related activities. The prediction text discusses a large truck's impact on an ego vehicle's driving, detailing various factors such as visibility, speed adjustment, lane consideration, predictive path planning, and safety buffers. 
+
+Both texts focus on the interaction between a large vehicle (the cement truck in the reference and a generic large truck in the prediction) and the driving behavior of an autonomous vehicle. They share a common theme of safety and the need for adjustments in driving due to the presence of large vehicles. The prediction text expands on the implications of driving around such vehicles, providing a more detailed analysis of the factors involved.
+
+Overall, the prediction text is relevant and closely aligned with the themes presented in the reference text, making it a strong match in terms of content and context.
+
+Rating: [[9]]

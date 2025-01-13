@@ -1,0 +1,3 @@
+The predicted text effectively captures the essence of the reference text by identifying the traffic cone and its purpose in signaling caution and guiding traffic. Both texts discuss the implications of the traffic cone on driving behavior, such as the need for lane changes and increased caution. The predicted text expands on the reference by detailing specific impacts on driving, which adds depth without straying from the original context. Overall, the predicted text is relevant and closely aligned with the reference text.
+
+Rating: [[9]]

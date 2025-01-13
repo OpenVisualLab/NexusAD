@@ -1,0 +1,3 @@
+The predicted text discusses a large truck and its implications for the driving behavior of an ego car, which aligns with the reference text's focus on heavy commercial vehicles and their impact on driving. Both texts emphasize the need for caution when interacting with such vehicles due to their size, braking time, and visibility issues. The predicted text expands on the topic by detailing specific factors like size, speed, obstructions, road conditions, and movement patterns, which are relevant to the original context. Overall, the predicted text maintains a strong relevance to the reference text while providing additional insights.
+
+Rating: [[9]]

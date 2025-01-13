@@ -1,0 +1,3 @@
+The predicted text discusses a blue trash bin and its implications for the ego car's driving, similar to the reference text. Both texts describe the bin's location and its potential impact on driving safety, emphasizing the need for the ego vehicle to maintain a safe distance. However, the predicted text introduces the idea of the bin being an obstacle that could affect maneuverability, which is a slight deviation from the reference text's focus on safety without directly labeling the bin as an obstacle. Overall, the two texts are closely related in content and context.
+
+Rating: [[8]]

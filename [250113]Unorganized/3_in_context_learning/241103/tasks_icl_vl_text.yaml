@@ -1,0 +1,31 @@
+config:
+  data_root: "/data2/datasets/drivelm/data/coda"
+  batch_size: 1
+
+# tasks = ['general_perception', 'region_perception', 'driving_suggestion']
+# 
+
+tasks:
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output3/241103_gp_icl_no_img/checkpoint-2316"
+    json_path: "/data2/datasets/drivelm/similarity_rank/bert/for_ft/test_vt_gp_top_no_img.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output2/241104_icl_text/test_gp_top_2_text_ft_4.jsonl"
+    gpu: 2
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output3/241103_gp_icl_no_img/checkpoint-1737"
+    json_path: "/data2/datasets/drivelm/similarity_rank/bert/for_ft/test_vt_gp_top_no_img.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output2/241104_icl_text/test_gp_top_2_text_ft_3.jsonl"
+    gpu: 2
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output3/241103_gp_icl_no_img/checkpoint-1758"
+    json_path: "/data2/datasets/drivelm/similarity_rank/bert/for_ft/test_vt_gp_top_no_img.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output2/241104_icl_text/test_gp_top_2_text_ft_2.jsonl"
+    gpu: 2
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output3/241103_gp_icl_no_img/checkpoint-579"
+    json_path: "/data2/datasets/drivelm/similarity_rank/bert/for_ft/test_vt_gp_top_no_img.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output2/241104_icl_text/test_gp_top_2_text_ft_2.jsonl"
+    gpu: 2
+
+
+

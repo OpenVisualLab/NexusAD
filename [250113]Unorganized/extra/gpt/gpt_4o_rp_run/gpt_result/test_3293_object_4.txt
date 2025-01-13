@@ -1,0 +1,3 @@
+The predicted text closely relates to the reference text by discussing the function and significance of traffic cones in driving scenarios. Both texts highlight the role of traffic cones in indicating construction zones and guiding vehicles. The predicted text expands on this by detailing how an autonomous vehicle must respond to the presence of a traffic cone, including obstacle detection and path planning, which adds depth to the discussion. Overall, the predicted text is relevant and maintains a strong connection to the reference text's themes.
+
+Rating: [[9]]

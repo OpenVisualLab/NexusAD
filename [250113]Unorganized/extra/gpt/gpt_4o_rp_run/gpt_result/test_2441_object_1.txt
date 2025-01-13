@@ -1,0 +1,3 @@
+The predicted text discusses a large construction vehicle and its implications for the ego car's driving strategy, which aligns well with the reference text's focus on a cement mixer and the necessary precautions for safe driving around such vehicles. Both texts emphasize the importance of maintaining a safe following distance, being cautious when overtaking, and the potential for reduced visibility and slower speeds. The predicted text expands on these points by detailing specific driving challenges and considerations, which enhances its relevance. Overall, the predicted text is highly relevant and similar in content to the reference text.
+
+Rating: [[9]]

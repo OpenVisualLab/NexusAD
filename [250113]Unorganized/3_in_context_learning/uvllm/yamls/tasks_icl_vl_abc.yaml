@@ -1,0 +1,23 @@
+config:
+  data_root: "/data2/datasets/drivelm/data/coda"
+  batch_size: 1
+
+# tasks = ['general_perception', 'region_perception', 'driving_suggestion']
+# 
+
+tasks:
+  - model_dir: "/data2/datasets/drivelm/output3/241103_gp_icl_no_img/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/aaaa_for_ft/test_vt_gp_top_2_v1.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241111/test_icl_gp_v1_2_a.jsonl"
+    gpu: 2
+  - model_dir: "/data2/datasets/drivelm/output3/241103_gp_icl/checkpoint-2316-merged"
+    json_path: "/data2/datasets/drivelm/similarity_rank/aaaa_for_ft/test_vt_gp_top_2_v1.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241111/test_icl_gp_v1_2_b.jsonl"
+    gpu: 2
+  # - model_dir: "/data2/datasets/drivelm/output3/241103_gp_icl_text/checkpoint-2316-merged"
+  #   json_path: "/data2/datasets/drivelm/similarity_rank/aaaa_for_ft/test_vt_gp_top_2_v1.jsonl"
+  #   out_json_path: "/data2/datasets/drivelm/241111/test_icl_gp_v1_2_c.jsonl"
+  #   gpu: 2
+
+
+

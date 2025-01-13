@@ -1,0 +1,23 @@
+config:
+  data_root: "/data2/datasets/drivelm/data/coda"
+  batch_size: 1
+
+# tasks = ['general_perception', 'region_perception', 'driving_suggestion']
+# 
+
+tasks:
+  - model_dir: "/data1/nemo/projects/pre_weights/InternVL2-8B"
+    json_path: "/data2/datasets/drivelm/similarity_rank/aaaa_for_ft/test_vt_gp_top_0_v1.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241111/test_ori_gp_v1_0.jsonl"
+    gpu: 3
+  - model_dir: "/data1/nemo/projects/pre_weights/InternVL2-8B"
+    json_path: "/data2/datasets/drivelm/similarity_rank/aaaa_for_ft/test_vt_gp_top_1_v1.jsonl"
+    out_json_path: "/data2/datasets/drivelm/241111/test_ori_gp_v1_1.jsonl"
+    gpu: 3
+  # - model_dir: "/data1/nemo/projects/pre_weights/InternVL2-8B"
+  #   json_path: "/data2/datasets/drivelm/similarity_rank/aaaa_for_ft/test_vt_gp_top_3_v1.jsonl"
+  #   out_json_path: "/data2/datasets/drivelm/241111/test_ori_gp_v1_3.jsonl"
+  #   gpu: 3
+
+
+

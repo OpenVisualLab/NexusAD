@@ -1,0 +1,3 @@
+The predicted text provides a detailed explanation of the role of bollards in the context of autonomous driving, which aligns well with the reference text's focus on bollards as traffic control devices. Both texts emphasize the importance of bollards in guiding the ego car and preventing collisions. The predicted text expands on the implications of bollards for driving behavior, discussing aspects like obstacle detection and path restriction, which are relevant to the original context. Overall, the predicted text is highly relevant and closely related to the reference text.
+
+Rating: [[9]]

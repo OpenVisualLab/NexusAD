@@ -1,0 +1,5 @@
+The reference text describes a parked moped and its implications for an ego car's driving behavior, focusing on ensuring clearance and avoiding sudden movements. The prediction text elaborates on a similar scenario involving a parked scooter, discussing various ways it can affect the ego car's driving, including obstruction, visibility issues, unexpected movements, and lane navigation. Both texts address the impact of stationary two-wheeled vehicles on autonomous driving, highlighting the need for the ego car to adapt its behavior for safety.
+
+The prediction text expands on the reference text by providing specific factors that could influence the ego car's algorithms, which adds depth to the discussion. Overall, the two texts are closely related in topic and context, with the prediction text being relevant and informative.
+
+Rating: [[9]]

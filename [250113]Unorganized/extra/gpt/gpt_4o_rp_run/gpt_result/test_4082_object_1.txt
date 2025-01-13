@@ -1,0 +1,5 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the implications of a construction vehicle on the driving behavior of an autonomous vehicle (ego car). The predicted text elaborates on specific factors such as speed variation, size and obstruction, unpredictable movements, and road position, which are all relevant to the safe navigation around construction vehicles mentioned in the reference text. The focus on safety and the need for the ego car to adapt its driving behavior is consistent in both texts. 
+
+Overall, the predicted text effectively captures the essence of the reference text while providing additional details that enhance understanding. 
+
+Rating: [[9]]

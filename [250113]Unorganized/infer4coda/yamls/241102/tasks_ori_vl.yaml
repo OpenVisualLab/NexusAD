@@ -1,0 +1,27 @@
+config:
+  data_root: "/data2/datasets/drivelm/data/coda"
+  batch_size: 1
+
+# tasks = ['general_perception', 'region_perception', 'driving_suggestion']
+# 
+
+tasks:
+  # - model_dir: ""
+  #   ckpt_dir: "/data2/datasets/drivelm/output2/internvl2-8b/v5-20241024-024519_structure_ds/checkpoint-1737"
+  #   json_path: "/data2/datasets/drivelm/data/qas/new/new_test_driving_suggestion.jsonl"
+  #   out_json_path: "/data2/datasets/drivelm/output2/nexusad/241025_ori_temp/ori_vl_8b_test_ds_ft_3.jsonl"
+  #   gpu: 0
+  # - model_dir: ""
+  #   ckpt_dir: "/data2/datasets/drivelm/output2/internvl2-8b/v3-20241024-023750_structure_gp/checkpoint-1737"
+  #   json_path: "/data2/datasets/drivelm/data/qas/new/new_test_general_perception.jsonl"
+  #   out_json_path: "/data2/datasets/drivelm/output2/nexusad/241025_ori_temp/ori_vl_8b_test_gp_ft_3.jsonl"
+  #   gpu: 1
+  - model_dir: ""
+    ckpt_dir: "/data2/datasets/drivelm/output3/new_str_vl_test_rp_ft_4/checkpoint-5100"
+    json_path: "/data2/datasets/drivelm/data/qas/new/new_test_region_perception.jsonl"
+    out_json_path: "/data2/datasets/drivelm/output2/nexusad/241025_ori_temp/new_vl_8b_test_rp_ft_4.jsonl"
+    gpu: 0
+
+
+
+

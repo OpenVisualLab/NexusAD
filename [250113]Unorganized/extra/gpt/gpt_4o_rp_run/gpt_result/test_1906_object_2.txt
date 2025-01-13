@@ -1,0 +1,5 @@
+The reference text discusses a truck parked on the side of the road and emphasizes the need for the ego vehicle to be cautious due to reduced lane width and the potential movement of the truck. The prediction text similarly addresses the implications of a parked vehicle on the ego car's navigation, highlighting the need for caution and adjustments in speed or lane changes. Both texts focus on the interaction between the parked vehicle and the ego vehicle, emphasizing safety and the need for the autonomous system to respond appropriately.
+
+Overall, the prediction text is relevant and closely aligned with the themes and concerns presented in the reference text, making it a strong match in terms of content and context.
+
+Rating: [[9]]

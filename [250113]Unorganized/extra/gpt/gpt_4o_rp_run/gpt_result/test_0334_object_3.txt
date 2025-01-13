@@ -1,0 +1,5 @@
+The reference text discusses the behavior of a bus and the necessary precautions an ego car should take when interacting with it, such as maintaining a safe following distance and being prepared for sudden stops. In contrast, the prediction text focuses on a different scenario involving a road worker and traffic cones, detailing how the ego car should respond to that situation, including lane changes, speed reduction, and increased vigilance.
+
+While both texts address the need for the ego car to adapt to its environment for safety, they focus on different objects (a bus vs. a road worker) and different driving scenarios. Therefore, the relevance and similarity between the two texts are low, as they do not share a common subject or context.
+
+Rating: [[3]]

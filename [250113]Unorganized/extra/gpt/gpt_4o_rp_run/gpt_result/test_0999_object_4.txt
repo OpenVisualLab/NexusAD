@@ -1,0 +1,3 @@
+The predicted text closely relates to the reference text by discussing the implications of debris or construction materials on the road. Both texts highlight the presence of construction activity and its potential impact on driving. The predicted text expands on the topic by detailing specific driving challenges and safety considerations that an autonomous vehicle might face in such a scenario. This additional context enhances the relevance of the predicted text while maintaining a clear connection to the reference text's main idea.
+
+Rating: [[9]]

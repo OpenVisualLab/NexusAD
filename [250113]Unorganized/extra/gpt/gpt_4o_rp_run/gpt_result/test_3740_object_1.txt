@@ -1,0 +1,3 @@
+The predicted text provides a detailed analysis of the implications of a large construction vehicle on the driving behavior of an ego car, which aligns well with the reference text's focus on the presence of such a vehicle and the necessary precautions a driver must take. Both texts emphasize the need for caution, awareness of the vehicle's potential movements, and the adjustments required in driving behavior due to the construction vehicle's characteristics. The predicted text expands on the reference by outlining specific factors that could affect driving, such as visibility, speed, and road occupancy, which are relevant to the context. Overall, the predicted text is highly relevant and closely related to the reference text.
+
+Rating: [[9]]

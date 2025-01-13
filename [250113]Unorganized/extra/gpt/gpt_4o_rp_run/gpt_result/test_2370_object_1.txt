@@ -1,0 +1,3 @@
+The predicted text discusses a construction vehicle and its implications for an ego car's driving behavior, which aligns closely with the reference text's focus on heavy machinery and its impact on traffic. Both texts emphasize the need for caution and awareness of potential hazards associated with construction activities. The predicted text expands on specific challenges the ego car may face, such as obstacles, safety hazards, reduced visibility, and road narrowing, which are relevant to the context provided in the reference text. Overall, the predicted text is highly relevant and maintains a strong similarity in theme and content.
+
+Rating: [[9]]

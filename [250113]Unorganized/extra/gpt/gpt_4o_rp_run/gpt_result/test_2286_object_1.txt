@@ -1,0 +1,5 @@
+The reference text describes a heavy-duty vehicle, likely a front loader, and emphasizes the need for the ego vehicle to maintain a safe distance due to potential movements and the presence of workers. The prediction text discusses an excavator, detailing how it can impact the ego vehicle's driving, including visibility issues, the potential for sudden movements, and road surface conditions. 
+
+Both texts focus on the implications of large construction vehicles on the safety and navigation of an ego vehicle. However, the prediction text provides a more detailed analysis of specific risks associated with an excavator, while the reference text is more general about construction vehicles. Despite the differences in vehicle type, the core theme of safety and caution around construction vehicles remains consistent.
+
+Rating: [[8]]

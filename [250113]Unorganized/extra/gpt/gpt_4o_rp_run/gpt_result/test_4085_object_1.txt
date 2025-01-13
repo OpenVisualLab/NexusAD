@@ -1,0 +1,3 @@
+The predicted text closely aligns with the reference text in terms of content and context. Both texts discuss the characteristics and implications of driving near a large construction vehicle, specifically a concrete mixer truck. The predicted text elaborates on several relevant points, such as the size and speed of the vehicle, limited visibility, turning and maneuvering challenges, and the risk of material spillage. These aspects are consistent with the reference text's emphasis on maintaining a safe following distance and being cautious of potential hazards. Overall, the predicted text effectively captures the essence of the reference text while providing additional details.
+
+Rating: [[9]]

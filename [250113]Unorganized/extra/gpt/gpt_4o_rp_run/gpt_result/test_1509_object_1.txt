@@ -1,0 +1,3 @@
+The reference text discusses a billboard or information sign that communicates to drivers or pedestrians, emphasizing its role in providing directions or traffic instructions. In contrast, the prediction text describes a barricade or roadblock, focusing on the ego car's need to detect and respond to this obstacle. While both texts relate to driving behavior and the ego car's interaction with external objects, they address different types of objects and their implications for driving. The reference text is more about informational signs, while the prediction text is about physical barriers affecting navigation. Therefore, while there is some thematic overlap regarding driving behavior, the specific content and context differ significantly.
+
+Rating: [[5]]

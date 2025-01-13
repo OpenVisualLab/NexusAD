@@ -1,0 +1,3 @@
+The predicted text discusses a large truck or construction vehicle and its implications for the ego car's driving, similar to the reference text. Both texts emphasize the size of the vehicle, the need for maintaining a safe distance, and the potential challenges it poses to visibility and maneuverability. However, the predicted text introduces the aspect of reflective markings and nighttime operation, which adds a layer of detail not explicitly mentioned in the reference text. Overall, the two texts are closely related in content and context, focusing on the interaction between the ego car and a large vehicle.
+
+Rating: [[9]]

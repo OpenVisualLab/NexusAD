@@ -1,0 +1,3 @@
+The reference text discusses the role of a traffic cone in marking hazardous areas and guiding the ego car's behavior to avoid danger. In contrast, the prediction text focuses on a large truck and its implications for the ego car's navigation and driving adjustments. While both texts address elements that affect the ego car's driving, they focus on different objects (traffic cone vs. truck) and their respective impacts on driving behavior. The themes of obstacle detection and the need for vigilance are somewhat related, but the specific contexts and objects differ significantly.
+
+Rating: [[4]]
